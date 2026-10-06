@@ -1,0 +1,3584 @@
+[
+ {
+  "file": "6 Green 02.pdf",
+  "file_seq": 6,
+  "colour": "Green",
+  "tag_no": 2,
+  "tag": "Green-02",
+  "date": "8-Aug-2026",
+  "time": "8:07:48PM",
+  "invoice": 6,
+  "body_tag": "G2",
+  "items": [
+   {
+    "name": "GLYCOMET 500MG METFORMIN",
+    "qty": 65.0,
+    "price": 7.44,
+    "amount": 483.6
+   }
+  ],
+  "warnings": [],
+  "item_count": 1,
+  "gross": 483.6,
+  "discount": 0.0,
+  "net": 483.6,
+  "cash_tendered": 483.6,
+  "balance": 0.0
+ },
+ {
+  "file": "8  Green 03.pdf",
+  "file_seq": 8,
+  "colour": "Green",
+  "tag_no": 3,
+  "tag": "Green-03",
+  "date": "8-Aug-2026",
+  "time": "8:08:12PM",
+  "invoice": 8,
+  "body_tag": "G3",
+  "items": [
+   {
+    "name": "EMPA 25MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 135.0,
+    "amount": 8775.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "GLUCOPHAGE XR 500MG METFORMION",
+    "qty": 130.0,
+    "price": 15.29,
+    "amount": 1987.7
+   },
+   {
+    "name": "T4 MONTPELLIER 100MCG",
+    "qty": 65.0,
+    "price": 18.09,
+    "amount": 1175.85
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) SITAGLIPTIN",
+    "qty": 65.0,
+    "price": 8.6,
+    "amount": 559.0
+   },
+   {
+    "name": "DIAMICRON 80MG GLICIAZIDE TABLET",
+    "qty": 65.0,
+    "price": 22.4,
+    "amount": 1456.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 17687.15,
+  "discount": 0.0,
+  "net": 17687.15,
+  "cash_tendered": 17687.15,
+  "balance": 0.0
+ },
+ {
+  "file": "9 Red 06.pdf",
+  "file_seq": 9,
+  "colour": "Red",
+  "tag_no": 6,
+  "tag": "Red-06",
+  "date": "8-Aug-2026",
+  "time": "8:29:32PM",
+  "invoice": 9,
+  "body_tag": "R6",
+  "items": [
+   {
+    "name": "ZAART 50MG LOSARTAN POTASSIUM",
+    "qty": 65.0,
+    "price": 20.43,
+    "amount": 1327.95
+   },
+   {
+    "name": "GLYCOMET SR 500MG METFORMIN",
+    "qty": 130.0,
+    "price": 12.6,
+    "amount": 1638.0
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "KALZANA 500MG CALCIUM ,VITAMIND3",
+    "qty": 65.0,
+    "price": 25.0,
+    "amount": 1625.0
+   },
+   {
+    "name": "GABA 100MG GABAPENTIN TABLET",
+    "qty": 65.0,
+    "price": 33.27,
+    "amount": 2162.55
+   },
+   {
+    "name": "BACLON 5MG BACLOFEN TABLET",
+    "qty": 130.0,
+    "price": 24.57,
+    "amount": 3194.1
+   },
+   {
+    "name": "ZYCEL 200MG CELECOXIB CAPSULE",
+    "qty": 30.0,
+    "price": 52.88,
+    "amount": 1586.4
+   },
+   {
+    "name": "FAMOTIDINE 20MG [SPMC] FAMOTADINE",
+    "qty": 30.0,
+    "price": 2.0,
+    "amount": 60.0
+   },
+   {
+    "name": "OMEZ 20MG OMEPRAZOLE 20MG",
+    "qty": 30.0,
+    "price": 8.94,
+    "amount": 268.2
+   },
+   {
+    "name": "AMILEB 25MG AMITRIPTYLINE TABLET",
+    "qty": 65.0,
+    "price": 4.67,
+    "amount": 303.55
+   }
+  ],
+  "warnings": [],
+  "item_count": 10,
+  "gross": 12848.25,
+  "discount": 0.0,
+  "net": 12848.25,
+  "cash_tendered": 12848.25,
+  "balance": 0.0
+ },
+ {
+  "file": "10 Green 05.pdf",
+  "file_seq": 10,
+  "colour": "Green",
+  "tag_no": 5,
+  "tag": "Green-05",
+  "date": "8-Aug-2026",
+  "time": "8:05:47PM",
+  "invoice": 10,
+  "body_tag": "G5",
+  "items": [
+   {
+    "name": "OLEANZ 5MG OLANZAPINE TABLET",
+    "qty": 130.0,
+    "price": 19.87,
+    "amount": 2583.1
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "NEUROBION VITAMIN B1+B6 +B12 TABLET",
+    "qty": 65.0,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "MELO 3 MELATONIN 3MG TABLET",
+    "qty": 65.0,
+    "price": 25.0,
+    "amount": 1625.0
+   },
+   {
+    "name": "VERMOX 100MG MEBENDAZOLE 6-S",
+    "qty": 1.0,
+    "price": 463.0,
+    "amount": 463.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 6,
+  "gross": 12958.6,
+  "discount": 0.0,
+  "net": 12958.6,
+  "cash_tendered": 12958.6,
+  "balance": 0.0
+ },
+ {
+  "file": "15 Green 07.pdf",
+  "file_seq": 15,
+  "colour": "Green",
+  "tag_no": 7,
+  "tag": "Green-07",
+  "date": "8-Aug-2026",
+  "time": "8:08:40PM",
+  "invoice": 15,
+  "body_tag": "G7",
+  "items": [
+   {
+    "name": "HEXILON 4MG METHYLPREDNISOLONE",
+    "qty": 30.0,
+    "price": 23.52,
+    "amount": 705.6
+   },
+   {
+    "name": "FORACORT 400MCG INHALER",
+    "qty": 1.0,
+    "price": 2388.0,
+    "amount": 2388.0
+   },
+   {
+    "name": "CEFTIL 500MG CEFUROXIME AXETIL",
+    "qty": 14.0,
+    "price": 129.0,
+    "amount": 1806.0
+   },
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 14.0,
+    "price": 33.75,
+    "amount": 472.5
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "NEUROBION VITAMIN B1+B6 +B12 TABLET",
+    "qty": 65.0,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "10% UREA IN AQUEOUS CREAM 100G",
+    "qty": 1.0,
+    "price": 360.0,
+    "amount": 360.0
+   },
+   {
+    "name": "DUSPATALIN RETARD 200MG MEBEVERINE",
+    "qty": 130.0,
+    "price": 228.46,
+    "amount": 29699.8
+   },
+   {
+    "name": "LIBRAX 5/2.5MG CHLORDIAZEPOX :",
+    "qty": 65.0,
+    "price": 51.2,
+    "amount": 3328.0
+   },
+   {
+    "name": "GABA 100MG GABAPENTIN TABLET",
+    "qty": 65.0,
+    "price": 33.27,
+    "amount": 2162.55
+   },
+   {
+    "name": "TIZOREL 2MG TIZANIDINE TABLETS 2MG",
+    "qty": 65.0,
+    "price": 59.96,
+    "amount": 3897.4
+   }
+  ],
+  "warnings": [],
+  "item_count": 11,
+  "gross": 51644.85,
+  "discount": 0.0,
+  "net": 51644.85,
+  "cash_tendered": 51644.85,
+  "balance": 0.0
+ },
+ {
+  "file": "17 Red 21.pdf",
+  "file_seq": 17,
+  "colour": "Red",
+  "tag_no": 21,
+  "tag": "Red-21",
+  "date": "8-Aug-2026",
+  "time": "8:31:25PM",
+  "invoice": 17,
+  "body_tag": "R 21",
+  "items": [
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 33.0,
+    "price": 47.0,
+    "amount": 1551.0
+   },
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] ASCORBIC",
+    "qty": 65.0,
+    "price": 1.7,
+    "amount": 110.5
+   },
+   {
+    "name": "COFENAC GEL DICLOFENAC",
+    "qty": 2.0,
+    "price": 189.0,
+    "amount": 378.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 3,
+  "gross": 2039.5,
+  "discount": 0.0,
+  "net": 2039.5,
+  "cash_tendered": 2039.5,
+  "balance": 0.0
+ },
+ {
+  "file": "19 Red 42.pdf",
+  "file_seq": 19,
+  "colour": "Red",
+  "tag_no": 42,
+  "tag": "Red-42",
+  "date": "8-Aug-2026",
+  "time": "8:35:02PM",
+  "invoice": 19,
+  "body_tag": "R 42",
+  "items": [
+   {
+    "name": "OMEZ 20MG OMEPRAZOLE 20MG",
+    "qty": 30.0,
+    "price": 8.94,
+    "amount": 268.2
+   },
+   {
+    "name": "FAMOTIDINE 20MG [SPMC] FAMOTADINE",
+    "qty": 30.0,
+    "price": 2.0,
+    "amount": 60.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 2,
+  "gross": 328.2,
+  "discount": 0.0,
+  "net": 328.2,
+  "cash_tendered": 328.2,
+  "balance": 0.0
+ },
+ {
+  "file": "21 Red 29.pdf",
+  "file_seq": 21,
+  "colour": "Red",
+  "tag_no": 29,
+  "tag": "Red-29",
+  "date": "8-Aug-2026",
+  "time": "8:32:40PM",
+  "invoice": 21,
+  "body_tag": "R 29",
+  "items": [
+   {
+    "name": "T4 50MCG LEVOTHYROXINE TABLET",
+    "qty": 150.0,
+    "price": 12.1,
+    "amount": 1815.0
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ENDERM CREAM CLOBETASOL",
+    "qty": 1.0,
+    "price": 410.0,
+    "amount": 410.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 4,
+  "gross": 5475.0,
+  "discount": 0.0,
+  "net": 5475.0,
+  "cash_tendered": 5475.0,
+  "balance": 0.0
+ },
+ {
+  "file": "24 Green 19.pdf",
+  "file_seq": 24,
+  "colour": "Green",
+  "tag_no": 19,
+  "tag": "Green-19",
+  "date": "8-Aug-2026",
+  "time": "8:14:43PM",
+  "invoice": 24,
+  "body_tag": "G 19",
+  "items": [
+   {
+    "name": "CETRIMIDE SHAMPOO 5% *** CETRIMIDE",
+    "qty": 1.0,
+    "price": 200.0,
+    "amount": 200.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 1,
+  "gross": 200.0,
+  "discount": 0.0,
+  "net": 200.0,
+  "cash_tendered": 200.0,
+  "balance": 0.0
+ },
+ {
+  "file": "25 Green 08.pdf",
+  "file_seq": 25,
+  "colour": "Green",
+  "tag_no": 8,
+  "tag": "Green-08",
+  "date": "8-Aug-2026",
+  "time": "8:06:54PM",
+  "invoice": 25,
+  "body_tag": "G8",
+  "items": [
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "FINAST 5MG FINASTERIDE 5MG TABLET",
+    "qty": 65.0,
+    "price": 61.0,
+    "amount": 3965.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 2,
+  "gross": 6542.9,
+  "discount": 0.0,
+  "net": 6542.9,
+  "cash_tendered": 6542.9,
+  "balance": 0.0
+ },
+ {
+  "file": "26 Red 38.pdf",
+  "file_seq": 26,
+  "colour": "Red",
+  "tag_no": 38,
+  "tag": "Red-38",
+  "date": "8-Aug-2026",
+  "time": "8:33:50PM",
+  "invoice": 26,
+  "body_tag": "R 38",
+  "items": [
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 35.0,
+    "price": 39.5,
+    "amount": 1382.5
+   },
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] ASCORBIC",
+    "qty": 65.0,
+    "price": 1.7,
+    "amount": 110.5
+   },
+   {
+    "name": "COFENAC GEL DICLOFENAC",
+    "qty": 1.0,
+    "price": 189.0,
+    "amount": 189.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 3,
+  "gross": 1682.0,
+  "discount": 0.0,
+  "net": 1682.0,
+  "cash_tendered": 1682.0,
+  "balance": 0.0
+ },
+ {
+  "file": "30 Red 41.pdf",
+  "file_seq": 30,
+  "colour": "Red",
+  "tag_no": 41,
+  "tag": "Red-41",
+  "date": "8-Aug-2026",
+  "time": "8:34:40PM",
+  "invoice": 30,
+  "body_tag": "R 41",
+  "items": [
+   {
+    "name": "GLUCAR 50MG ACARBOSE TABLET 50MG",
+    "qty": 65.0,
+    "price": 43.8,
+    "amount": 2847.0
+   },
+   {
+    "name": "EMPA 25MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 135.0,
+    "amount": 8775.0
+   },
+   {
+    "name": "INOSITA 100MG SITAGLIPTIN 100MG",
+    "qty": 65.0,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "GLYCOMET 850MG NETFORMIN",
+    "qty": 195.0,
+    "price": 14.7,
+    "amount": 2866.5
+   },
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "NEUROBION VITAMIN B1+B6 +B12 TABLET",
+    "qty": 65.0,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "ZAART 25MG LOSARTAN POTASSIUM",
+    "qty": 65.0,
+    "price": 12.48,
+    "amount": 811.2
+   },
+   {
+    "name": "MAXGALIN 75MG PREGABALIN 75MG",
+    "qty": 65.0,
+    "price": 29.33,
+    "amount": 1906.45
+   },
+   {
+    "name": "EMULSIFYING OINTMENT SOAP",
+    "qty": 1.0,
+    "price": 380.0,
+    "amount": 380.0
+   },
+   {
+    "name": "BETALEB CREAM BETAMETHASONE",
+    "qty": 1.0,
+    "price": 290.0,
+    "amount": 290.0
+   },
+   {
+    "name": "DIAMICRON 80MG GLICIAZIDE TABLET",
+    "qty": 130.0,
+    "price": 22.4,
+    "amount": 2912.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 12,
+  "gross": 33950.65,
+  "discount": 0.0,
+  "net": 33950.65,
+  "cash_tendered": 33950.65,
+  "balance": 0.0
+ },
+ {
+  "file": "31 Red 45.pdf",
+  "file_seq": 31,
+  "colour": "Red",
+  "tag_no": 45,
+  "tag": "Red-45",
+  "date": "8-Aug-2026",
+  "time": "8:35:43PM",
+  "invoice": 31,
+  "body_tag": "R 45",
+  "items": [
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) SITAGLIPTIN",
+    "qty": 65.0,
+    "price": 8.6,
+    "amount": 559.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 1,
+  "gross": 559.0,
+  "discount": 0.0,
+  "net": 559.0,
+  "cash_tendered": 559.0,
+  "balance": 0.0
+ },
+ {
+  "file": "32 Green 04.pdf",
+  "file_seq": 32,
+  "colour": "Green",
+  "tag_no": 4,
+  "tag": "Green-04",
+  "date": "8-Aug-2026",
+  "time": "8:05:01PM",
+  "invoice": 32,
+  "body_tag": "G4",
+  "items": [
+   {
+    "name": "KALZANA 500MG CALCIUM ,VITAMIND3",
+    "qty": 65.0,
+    "price": 25.0,
+    "amount": 1625.0
+   },
+   {
+    "name": "MOVICOL SACHET POLYETHYLENE",
+    "qty": 40.0,
+    "price": 158.4,
+    "amount": 6336.0
+   },
+   {
+    "name": "XON-CE 500MG VITAMIN C TABLET",
+    "qty": 65.0,
+    "price": 26.77,
+    "amount": 1740.05
+   },
+   {
+    "name": "REFRESH TEARS EYE DROPS ARTIFICIAL",
+    "qty": 1.0,
+    "price": 969.0,
+    "amount": 969.0
+   },
+   {
+    "name": "ECOSPRIN 75MG ASPRIN TABLET",
+    "qty": 65.0,
+    "price": 5.91,
+    "amount": 384.15
+   },
+   {
+    "name": "SOLFICARE 5MG SOLIFENACIN",
+    "qty": 65.0,
+    "price": 90.0,
+    "amount": 5850.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "PROPRANOLOL 40MG [SPMC]",
+    "qty": 65.0,
+    "price": 1.4,
+    "amount": 91.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 10,
+  "gross": 23783.8,
+  "discount": 0.0,
+  "net": 23783.8,
+  "cash_tendered": 23783.8,
+  "balance": 0.0
+ },
+ {
+  "file": "33 Green 10.pdf",
+  "file_seq": 33,
+  "colour": "Green",
+  "tag_no": 10,
+  "tag": "Green-10",
+  "date": "8-Aug-2026",
+  "time": "8:09:23PM",
+  "invoice": 33,
+  "body_tag": "G 10",
+  "items": [
+   {
+    "name": "FORACORT 400MCG INHALER",
+    "qty": 1.0,
+    "price": 2388.0,
+    "amount": 2388.0
+   },
+   {
+    "name": "MONTIGET 10MG MONTELUKAST TABLET",
+    "qty": 65.0,
+    "price": 32.71,
+    "amount": 2126.15
+   },
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) SITAGLIPTIN",
+    "qty": 65.0,
+    "price": 8.6,
+    "amount": 559.0
+   },
+   {
+    "name": "GLYCOMET 500MG METFORMIN",
+    "qty": 65.0,
+    "price": 7.44,
+    "amount": 483.6
+   },
+   {
+    "name": "DIAMICRON 80MG GLICIAZIDE TABLET",
+    "qty": 65.0,
+    "price": 22.4,
+    "amount": 1456.0
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   }
+  ],
+  "warnings": [],
+  "item_count": 6,
+  "gross": 8168.45,
+  "discount": 0.0,
+  "net": 8168.45,
+  "cash_tendered": 8168.45,
+  "balance": 0.0
+ },
+ {
+  "file": "37 Green 11.pdf",
+  "file_seq": 37,
+  "colour": "Green",
+  "tag_no": 11,
+  "tag": "Green-11",
+  "date": "8-Aug-2026",
+  "time": "8:09:54PM",
+  "invoice": 37,
+  "body_tag": "G 11",
+  "items": [
+   {
+    "name": "DUZELA 20MG DULOXETINE",
+    "qty": 65.0,
+    "price": 56.01,
+    "amount": 3640.65
+   },
+   {
+    "name": "TEL OD 80MG TELMISARTAN 80MG",
+    "qty": 65.0,
+    "price": 43.69,
+    "amount": 2839.85
+   },
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] ASCORBIC",
+    "qty": 130.0,
+    "price": 1.7,
+    "amount": 221.0
+   },
+   {
+    "name": "GLIVIC 40MG GLICLAZIDE TABLET",
+    "qty": 65.0,
+    "price": 11.89,
+    "amount": 772.85
+   },
+   {
+    "name": "GLYCOMET 500MG METFORMIN",
+    "qty": 65.0,
+    "price": 7.44,
+    "amount": 483.6
+   },
+   {
+    "name": "EMPA 25MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 135.0,
+    "amount": 8775.0
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 17415.45,
+  "discount": 0.0,
+  "net": 17415.45,
+  "cash_tendered": 17415.45,
+  "balance": 0.0
+ },
+ {
+  "file": "38 Green 09.pdf",
+  "file_seq": 38,
+  "colour": "Green",
+  "tag_no": 9,
+  "tag": "Green-09",
+  "date": "8-Aug-2026",
+  "time": "8:09:02PM",
+  "invoice": 38,
+  "body_tag": "G9",
+  "items": [
+   {
+    "name": "ENVAS 5MG ENALAPRIL TABLET",
+    "qty": 33.0,
+    "price": 4.96,
+    "amount": 163.68
+   },
+   {
+    "name": "DOMPERIDONE 10MG (DOMPERIT)",
+    "qty": 195.0,
+    "price": 3.47,
+    "amount": 676.65
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "BISOVIC 2.5MG BISOPROLOL FUMARATE",
+    "qty": 65.0,
+    "price": 25.43,
+    "amount": 1652.95
+   },
+   {
+    "name": "PANTODAC 40MG PANTOPRAZOLE",
+    "qty": 130.0,
+    "price": 55.59,
+    "amount": 7226.7
+   },
+   {
+    "name": "NOKLOT 75MG CLOPIDAGREL TABLET",
+    "qty": 65.0,
+    "price": 34.78,
+    "amount": 2260.7
+   },
+   {
+    "name": "ECORIN 150MG ASPIRIN DELSYED",
+    "qty": 65.0,
+    "price": 9.95,
+    "amount": 646.75
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 14577.43,
+  "discount": 0.0,
+  "net": 14577.43,
+  "cash_tendered": 14577.43,
+  "balance": 0.0
+ },
+ {
+  "file": "39 Red 03.pdf",
+  "file_seq": 39,
+  "colour": "Red",
+  "tag_no": 3,
+  "tag": "Red-03",
+  "date": "8-Aug-2026",
+  "time": "8:28:42PM",
+  "invoice": 39,
+  "body_tag": "R3",
+  "items": [
+   {
+    "name": "ZYCEL 100MG CELECOXIB CAPSULE",
+    "qty": 14.0,
+    "price": 30.25,
+    "amount": 423.5
+   }
+  ],
+  "warnings": [],
+  "item_count": 1,
+  "gross": 423.5,
+  "discount": 0.0,
+  "net": 423.5,
+  "cash_tendered": 423.5,
+  "balance": 0.0
+ },
+ {
+  "file": "50 Red 05.pdf",
+  "file_seq": 50,
+  "colour": "Red",
+  "tag_no": 5,
+  "tag": "Red-05",
+  "date": "8-Aug-2026",
+  "time": "8:29:10PM",
+  "invoice": 50,
+  "body_tag": "R5",
+  "items": [
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 42.0,
+    "price": 33.75,
+    "amount": 1417.5
+   },
+   {
+    "name": "EMPA 10MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "WINTERPAN GEL METHYL SALICYLATE",
+    "qty": 1.0,
+    "price": 490.0,
+    "amount": 490.0
+   },
+   {
+    "name": "BACLON 10mg BACLOFEN BP 10mg",
+    "qty": 30.0,
+    "price": 34.83,
+    "amount": 1044.9
+   },
+   {
+    "name": "KALZANA 500MG CALCIUM ,VITAMIND3",
+    "qty": 65.0,
+    "price": 25.0,
+    "amount": 1625.0
+   },
+   {
+    "name": "AMILEB 25MG AMITRIPTYLINE TABLET",
+    "qty": 15.0,
+    "price": 4.67,
+    "amount": 70.05
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "ZAART 50MG LOSARTAN POTASSIUM",
+    "qty": 130.0,
+    "price": 20.43,
+    "amount": 2655.9
+   },
+   {
+    "name": "INOSITA 100MG SITAGLIPTIN 100MG",
+    "qty": 65.0,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "DIAMICRON MR 60MG GLICLAZIDE 60MG",
+    "qty": 260.0,
+    "price": 72.63,
+    "amount": 18883.8
+   }
+  ],
+  "warnings": [],
+  "item_count": 11,
+  "gross": 39757.85,
+  "discount": 0.0,
+  "net": 39757.85,
+  "cash_tendered": 39757.85,
+  "balance": 0.0
+ },
+ {
+  "file": "55 Red 08.pdf",
+  "file_seq": 55,
+  "colour": "Red",
+  "tag_no": 8,
+  "tag": "Red-08",
+  "date": "8-Aug-2026",
+  "time": "8:30:25PM",
+  "invoice": 52,
+  "body_tag": "R8",
+  "items": [
+   {
+    "name": "FENADINE 180MG FEXOFENADINE TABLET",
+    "qty": 65.0,
+    "price": 45.82,
+    "amount": 2978.3
+   },
+   {
+    "name": "FLUTICONE NASAL SPRAY FLUTICASONE",
+    "qty": 1.0,
+    "price": 1320.0,
+    "amount": 1320.0
+   },
+   {
+    "name": "ALLERMINE 4MG CHLORPHENIRAMINE",
+    "qty": 65.0,
+    "price": 2.0,
+    "amount": 130.0
+   },
+   {
+    "name": "OMEZ 20MG OMEPRAZOLE 20MG",
+    "qty": 28.0,
+    "price": 8.94,
+    "amount": 250.32
+   },
+   {
+    "name": "BACLON 10mg BACLOFEN BP 10mg",
+    "qty": 28.0,
+    "price": 34.83,
+    "amount": 975.24
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   }
+  ],
+  "warnings": [
+   "filename number 55 != invoice #52"
+  ],
+  "item_count": 7,
+  "gross": 9391.36,
+  "discount": 0.0,
+  "net": 9391.36,
+  "cash_tendered": 9391.36,
+  "balance": 0.0
+ },
+ {
+  "file": "53 Red 07.pdf",
+  "file_seq": 53,
+  "colour": "Red",
+  "tag_no": 7,
+  "tag": "Red-07",
+  "date": "8-Aug-2026",
+  "time": "8:29:59PM",
+  "invoice": 53,
+  "body_tag": "R7",
+  "items": [
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "SAZO EN 500MG SULFASALAZINE",
+    "qty": 130.0,
+    "price": 33.5,
+    "amount": 4355.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 2,
+  "gross": 7410.0,
+  "discount": 0.0,
+  "net": 7410.0,
+  "cash_tendered": 7410.0,
+  "balance": 0.0
+ },
+ {
+  "file": "58 Green 18.pdf",
+  "file_seq": 58,
+  "colour": "Green",
+  "tag_no": 18,
+  "tag": "Green-18",
+  "date": "8-Aug-2026",
+  "time": "8:14:20PM",
+  "invoice": 58,
+  "body_tag": "G 18",
+  "items": [
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 65.0,
+    "price": 33.75,
+    "amount": 2193.75
+   },
+   {
+    "name": "ROSTIN 20MG ROSUVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 35.0,
+    "amount": 2275.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   }
+  ],
+  "warnings": [],
+  "item_count": 4,
+  "gross": 10101.65,
+  "discount": 0.0,
+  "net": 10101.65,
+  "cash_tendered": 10101.65,
+  "balance": 0.0
+ },
+ {
+  "file": "59 Green 17.pdf",
+  "file_seq": 59,
+  "colour": "Green",
+  "tag_no": 17,
+  "tag": "Green-17",
+  "date": "8-Aug-2026",
+  "time": "8:13:30PM",
+  "invoice": 59,
+  "body_tag": "G 17 (ii)",
+  "items": [
+   {
+    "name": "TERBINAFORCE CREAM TERBINAFINE 15G",
+    "qty": 1.0,
+    "price": 658.0,
+    "amount": 658.0
+   },
+   {
+    "name": "MICOGEL 2% CREAM MICONOZOLE 15G",
+    "qty": 1.0,
+    "price": 178.0,
+    "amount": 178.0
+   },
+   {
+    "name": "ITRA 100MG ITRACONAZOLE CAPSULE",
+    "qty": 28.0,
+    "price": 83.33,
+    "amount": 2333.24
+   },
+   {
+    "name": "KETO PLUS SHAMPOO KETOCONAZOLE",
+    "qty": 1.0,
+    "price": 1658.0,
+    "amount": 1658.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 4,
+  "gross": 4827.24,
+  "discount": 0.0,
+  "net": 4827.24,
+  "cash_tendered": 4827.24,
+  "balance": 0.0
+ },
+ {
+  "file": "68 Red 23.pdf",
+  "file_seq": 68,
+  "colour": "Red",
+  "tag_no": 23,
+  "tag": "Red-23",
+  "date": "8-Aug-2026",
+  "time": "8:31:51PM",
+  "invoice": 68,
+  "body_tag": "R 23",
+  "items": [
+   {
+    "name": "ROSTIN 5MG ROSUVASTATIN TABLET 5MG",
+    "qty": 65.0,
+    "price": 20.0,
+    "amount": 1300.0
+   },
+   {
+    "name": "CILACAR 5MG CILNIDIPINE TABLET",
+    "qty": 65.0,
+    "price": 47.83,
+    "amount": 3108.95
+   },
+   {
+    "name": "TEL OD 40MG TELMISARTAN 40MG",
+    "qty": 65.0,
+    "price": 28.4,
+    "amount": 1846.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 3,
+  "gross": 6254.95,
+  "discount": 0.0,
+  "net": 6254.95,
+  "cash_tendered": 6254.95,
+  "balance": 0.0
+ },
+ {
+  "file": "69 Green 16.pdf",
+  "file_seq": 69,
+  "colour": "Green",
+  "tag_no": 16,
+  "tag": "Green-16",
+  "date": "8-Aug-2026",
+  "time": "8:13:09PM",
+  "invoice": 69,
+  "body_tag": "G 16",
+  "items": [
+   {
+    "name": "TIOVA 9MCG INHALER TIOTROPIUM",
+    "qty": 1.0,
+    "price": 2988.0,
+    "amount": 2988.0
+   },
+   {
+    "name": "SEROFLO 250 INHALER SALMETAROL +",
+    "qty": 1.0,
+    "price": 1831.0,
+    "amount": 1831.0
+   },
+   {
+    "name": "DERIPHYLLIN RETARD 150MG Etofylline",
+    "qty": 65.0,
+    "price": 5.24,
+    "amount": 340.6
+   },
+   {
+    "name": "OMEZ 20MG OMEPRAZOLE 20MG",
+    "qty": 130.0,
+    "price": 8.94,
+    "amount": 1162.2
+   },
+   {
+    "name": "CARTICARE CS CLUCOSAMINE &",
+    "qty": 65.0,
+    "price": 120.0,
+    "amount": 7800.0
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 6,
+  "gross": 17176.8,
+  "discount": 0.0,
+  "net": 17176.8,
+  "cash_tendered": 17176.8,
+  "balance": 0.0
+ },
+ {
+  "file": "72 Red 39.pdf",
+  "file_seq": 72,
+  "colour": "Red",
+  "tag_no": 39,
+  "tag": "Red-39",
+  "date": "8-Aug-2026",
+  "time": "8:34:12PM",
+  "invoice": 72,
+  "body_tag": "R 39",
+  "items": [
+   {
+    "name": "COFENAC GEL DICLOFENAC",
+    "qty": 1.0,
+    "price": 189.0,
+    "amount": 189.0
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 33.0,
+    "price": 47.0,
+    "amount": 1551.0
+   },
+   {
+    "name": "MOVICOL SACHET POLYETHYLENE",
+    "qty": 10.0,
+    "price": 158.4,
+    "amount": 1584.0
+   },
+   {
+    "name": "OMEZ 20MG OMEPRAZOLE 20MG",
+    "qty": 40.0,
+    "price": 8.94,
+    "amount": 357.6
+   }
+  ],
+  "warnings": [],
+  "item_count": 4,
+  "gross": 3681.6,
+  "discount": 0.0,
+  "net": 3681.6,
+  "cash_tendered": 3681.6,
+  "balance": 0.0
+ },
+ {
+  "file": "75 Green 13.pdf",
+  "file_seq": 75,
+  "colour": "Green",
+  "tag_no": 13,
+  "tag": "Green-13",
+  "date": "8-Aug-2026",
+  "time": "8:11:09PM",
+  "invoice": 75,
+  "body_tag": "G 13",
+  "items": [
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "PROBETA N DROPS 7.5ML",
+    "qty": 1.0,
+    "price": 468.0,
+    "amount": 468.0
+   },
+   {
+    "name": "LASIX 40MG FRUSAMIDE TABLET",
+    "qty": 65.0,
+    "price": 6.38,
+    "amount": 414.7
+   },
+   {
+    "name": "ALDACTONE-A 25MG SPIRONOLACTONE",
+    "qty": 33.0,
+    "price": 17.76,
+    "amount": 586.08
+   },
+   {
+    "name": "BECOZINC B COMPLEX VITAMIN C + ZINC",
+    "qty": 65.0,
+    "price": 19.87,
+    "amount": 1291.55
+   },
+   {
+    "name": "FERUP ** FERROUS FUMARATE CAPSULE",
+    "qty": 65.0,
+    "price": 22.0,
+    "amount": 1430.0
+   },
+   {
+    "name": "CREMAFFIN ORAL LIQUID LIQID",
+    "qty": 2.0,
+    "price": 741.0,
+    "amount": 1482.0
+   },
+   {
+    "name": "MOVICOL SACHET POLYETHYLENE",
+    "qty": 10.0,
+    "price": 158.4,
+    "amount": 1584.0
+   },
+   {
+    "name": "KALZANA 500MG CALCIUM ,VITAMIND3",
+    "qty": 65.0,
+    "price": 25.0,
+    "amount": 1625.0
+   },
+   {
+    "name": "BISOVIC 2.5MG BISOPROLOL FUMARATE",
+    "qty": 33.0,
+    "price": 25.43,
+    "amount": 839.19
+   },
+   {
+    "name": "EMPA 10MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "ECOSPRIN 75MG ASPRIN TABLET",
+    "qty": 65.0,
+    "price": 5.91,
+    "amount": 384.15
+   }
+  ],
+  "warnings": [],
+  "item_count": 13,
+  "gross": 18323.27,
+  "discount": 0.0,
+  "net": 18323.27,
+  "cash_tendered": 18323.27,
+  "balance": 0.0
+ },
+ {
+  "file": "77 Green 36.pdf",
+  "file_seq": 77,
+  "colour": "Green",
+  "tag_no": 36,
+  "tag": "Green-36",
+  "date": "8-Aug-2026",
+  "time": "8:19:42PM",
+  "invoice": 77,
+  "body_tag": "G 36",
+  "items": [
+   {
+    "name": "CREMAFFIN PLUS SYRUP LIQID",
+    "qty": 1.0,
+    "price": 922.0,
+    "amount": 922.0
+   },
+   {
+    "name": "GLUCOPHAGE XR 1000MG **",
+    "qty": 130.0,
+    "price": 59.5,
+    "amount": 7735.0
+   },
+   {
+    "name": "GP-2MG GLIMEPIRIDE 2MG TABLET",
+    "qty": 260.0,
+    "price": 19.18,
+    "amount": 4986.8
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "LINO 5MG LINAGLIPTIN TABLET",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] ASCORBIC",
+    "qty": 65.0,
+    "price": 1.7,
+    "amount": 110.5
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 21489.3,
+  "discount": 0.0,
+  "net": 21489.3,
+  "cash_tendered": 21489.3,
+  "balance": 0.0
+ },
+ {
+  "file": "82 Red 02.pdf",
+  "file_seq": 82,
+  "colour": "Red",
+  "tag_no": 2,
+  "tag": "Red-02",
+  "date": "8-Aug-2026",
+  "time": "8:28:08PM",
+  "invoice": 82,
+  "body_tag": "R2",
+  "items": [
+   {
+    "name": "FAMOTIDINE 20MG [SPMC] FAMOTADINE",
+    "qty": 60.0,
+    "price": 2.0,
+    "amount": 120.0
+   },
+   {
+    "name": "BACLON 10mg BACLOFEN BP 10mg",
+    "qty": 30.0,
+    "price": 34.83,
+    "amount": 1044.9
+   },
+   {
+    "name": "ALPHADOL 0.25MG ALFACALCIDOL",
+    "qty": 60.0,
+    "price": 30.0,
+    "amount": 1800.0
+   },
+   {
+    "name": "DIAMICRON MR 60MG GLICLAZIDE 60MG",
+    "qty": 260.0,
+    "price": 72.63,
+    "amount": 18883.8
+   },
+   {
+    "name": "THYMOL IN SPIRIT 3% ** 30ML",
+    "qty": 1.0,
+    "price": 200.0,
+    "amount": 200.0
+   },
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 21.0,
+    "price": 33.75,
+    "amount": 708.75
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "FORCEVAL MULTIVITAMIN & MINERALS",
+    "qty": 65.0,
+    "price": 109.63,
+    "amount": 7125.95
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "TEL OD 40MG TELMISARTAN 40MG",
+    "qty": 65.0,
+    "price": 28.4,
+    "amount": 1846.0
+   },
+   {
+    "name": "GLYCOMET 500MG METFORMIN",
+    "qty": 200.0,
+    "price": 7.44,
+    "amount": 1488.0
+   },
+   {
+    "name": "KALZANA 500MG CALCIUM ,VITAMIND3",
+    "qty": 65.0,
+    "price": 25.0,
+    "amount": 1625.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 12,
+  "gross": 39053.1,
+  "discount": 0.0,
+  "net": 39053.1,
+  "cash_tendered": 39053.1,
+  "balance": 0.0
+ },
+ {
+  "file": "86 Green 25.pdf",
+  "file_seq": 86,
+  "colour": "Green",
+  "tag_no": 25,
+  "tag": "Green-25",
+  "date": "8-Aug-2026",
+  "time": "8:15:37PM",
+  "invoice": 86,
+  "body_tag": "G 25",
+  "items": [
+   {
+    "name": "DOMPERIDONE 10MG (DOMPERIT)",
+    "qty": 200.0,
+    "price": 3.47,
+    "amount": 694.0
+   },
+   {
+    "name": "NEXIUM 20MG ESOMEPRAZOLE TABLET",
+    "qty": 65.0,
+    "price": 40.0,
+    "amount": 2600.0
+   },
+   {
+    "name": "ASTHALIN 100MCG INHALER SALBUTAMOL",
+    "qty": 1.0,
+    "price": 613.0,
+    "amount": 613.0
+   },
+   {
+    "name": "FINAST 5MG FINASTERIDE 5MG TABLET",
+    "qty": 65.0,
+    "price": 61.0,
+    "amount": 3965.0
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "ZAART 25MG LOSARTAN POTASSIUM",
+    "qty": 130.0,
+    "price": 12.48,
+    "amount": 1622.4
+   },
+   {
+    "name": "MAGNEE 400 TABLET",
+    "qty": 65.0,
+    "price": 90.16,
+    "amount": 5860.4
+   },
+   {
+    "name": "FLUTICONE NASAL SPRAY FLUTICASONE",
+    "qty": 1.0,
+    "price": 1320.0,
+    "amount": 1320.0
+   },
+   {
+    "name": "CETRIMIDE SHAMPOO 5% *** CETRIMIDE",
+    "qty": 1.0,
+    "price": 200.0,
+    "amount": 200.0
+   },
+   {
+    "name": "ROVATE LOTION BETAMETHASONE",
+    "qty": 1.0,
+    "price": 671.76,
+    "amount": 671.76
+   },
+   {
+    "name": "FORACORT 400MCG INHALER",
+    "qty": 1.0,
+    "price": 2388.0,
+    "amount": 2388.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 11,
+  "gross": 21090.26,
+  "discount": 0.0,
+  "net": 21090.26,
+  "cash_tendered": 21090.26,
+  "balance": 0.0
+ },
+ {
+  "file": "88 Green 24.pdf",
+  "file_seq": 88,
+  "colour": "Green",
+  "tag_no": 24,
+  "tag": "Green-24",
+  "date": "8-Aug-2026",
+  "time": "8:15:17PM",
+  "invoice": 88,
+  "body_tag": "G 24",
+  "items": [
+   {
+    "name": "RABE 20MG RABEPRAZOLE SODIUM 20MG",
+    "qty": 30.0,
+    "price": 32.0,
+    "amount": 960.0
+   },
+   {
+    "name": "ZYCEL 100MG CELECOXIB CAPSULE",
+    "qty": 30.0,
+    "price": 30.25,
+    "amount": 907.5
+   },
+   {
+    "name": "DOMPERIDONE 10MG (DOMPERIT)",
+    "qty": 30.0,
+    "price": 3.47,
+    "amount": 104.1
+   }
+  ],
+  "warnings": [],
+  "item_count": 3,
+  "gross": 1971.6,
+  "discount": 0.0,
+  "net": 1971.6,
+  "cash_tendered": 1971.6,
+  "balance": 0.0
+ },
+ {
+  "file": "92 Green 33.pdf",
+  "file_seq": 92,
+  "colour": "Green",
+  "tag_no": 33,
+  "tag": "Green-33",
+  "date": "8-Aug-2026",
+  "time": "8:18:13PM",
+  "invoice": 92,
+  "body_tag": "G 33",
+  "items": [
+   {
+    "name": "ROSTIN 5MG ROSUVASTATIN TABLET 5MG",
+    "qty": 65.0,
+    "price": 20.0,
+    "amount": 1300.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 1,
+  "gross": 1300.0,
+  "discount": 0.0,
+  "net": 1300.0,
+  "cash_tendered": 1300.0,
+  "balance": 0.0
+ },
+ {
+  "file": "94 Red 33.pdf",
+  "file_seq": 94,
+  "colour": "Red",
+  "tag_no": 33,
+  "tag": "Red-33",
+  "date": "8-Aug-2026",
+  "time": "8:33:01PM",
+  "invoice": 94,
+  "body_tag": "R 33",
+  "items": [
+   {
+    "name": "COFENAC GEL DICLOFENAC",
+    "qty": 1.0,
+    "price": 189.0,
+    "amount": 189.0
+   },
+   {
+    "name": "ZAART 50MG LOSARTAN POTASSIUM",
+    "qty": 130.0,
+    "price": 20.43,
+    "amount": 2655.9
+   },
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 130.0,
+    "price": 33.75,
+    "amount": 4387.5
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "DIAMICRON 80MG GLICIAZIDE TABLET",
+    "qty": 98.0,
+    "price": 22.4,
+    "amount": 2195.2
+   },
+   {
+    "name": "DIAMICRON 80MG GLICIAZIDE TABLET",
+    "qty": 65.0,
+    "price": 22.4,
+    "amount": 1456.0
+   },
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) SITAGLIPTIN",
+    "qty": 65.0,
+    "price": 8.6,
+    "amount": 559.0
+   },
+   {
+    "name": "PIOZ 15MG PIOGLITAZONE",
+    "qty": 65.0,
+    "price": 30.76,
+    "amount": 1999.4
+   }
+  ],
+  "warnings": [],
+  "item_count": 8,
+  "gross": 14597.7,
+  "discount": 0.0,
+  "net": 14597.7,
+  "cash_tendered": 14597.7,
+  "balance": 0.0
+ },
+ {
+  "file": "103 Green 40.pdf",
+  "file_seq": 103,
+  "colour": "Green",
+  "tag_no": 40,
+  "tag": "Green-40",
+  "date": "8-Aug-2026",
+  "time": "8:20:52PM",
+  "invoice": 103,
+  "body_tag": "G 40",
+  "items": [
+   {
+    "name": "DIAMICRON MR 30MG GLICLAZIDE",
+    "qty": 130.0,
+    "price": 45.0,
+    "amount": 5850.0
+   },
+   {
+    "name": "NEVOX XR 500MG METFORMIN HCL USP",
+    "qty": 130.0,
+    "price": 15.1,
+    "amount": 1963.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 2,
+  "gross": 7813.0,
+  "discount": 0.0,
+  "net": 7813.0,
+  "cash_tendered": 7813.0,
+  "balance": 0.0
+ },
+ {
+  "file": "104 Green 35.pdf",
+  "file_seq": 104,
+  "colour": "Green",
+  "tag_no": 35,
+  "tag": "Green-35",
+  "date": "8-Aug-2026",
+  "time": "8:19:19PM",
+  "invoice": 104,
+  "body_tag": "G 35",
+  "items": [
+   {
+    "name": "DOMPERIDONE 10MG (DOMPERIT)",
+    "qty": 90.0,
+    "price": 3.47,
+    "amount": 312.3
+   },
+   {
+    "name": "PANTODAC 40MG PANTOPRAZOLE",
+    "qty": 30.0,
+    "price": 55.59,
+    "amount": 1667.7
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "FINAST 5MG FINASTERIDE 5MG TABLET",
+    "qty": 65.0,
+    "price": 61.0,
+    "amount": 3965.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   }
+  ],
+  "warnings": [],
+  "item_count": 5,
+  "gross": 9205.4,
+  "discount": 0.0,
+  "net": 9205.4,
+  "cash_tendered": 9205.4,
+  "balance": 0.0
+ },
+ {
+  "file": "107 Green 34.pdf",
+  "file_seq": 107,
+  "colour": "Green",
+  "tag_no": 34,
+  "tag": "Green-34",
+  "date": "8-Aug-2026",
+  "time": "8:18:35PM",
+  "invoice": 107,
+  "body_tag": "G 34",
+  "items": [
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] ASCORBIC",
+    "qty": 65.0,
+    "price": 1.7,
+    "amount": 110.5
+   },
+   {
+    "name": "FEXIGRA 120MG FEXOFENADINE TABLET",
+    "qty": 65.0,
+    "price": 36.73,
+    "amount": 2387.45
+   },
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "FLUTICONE NASAL SPRAY FLUTICASONE",
+    "qty": 1.0,
+    "price": 1320.0,
+    "amount": 1320.0
+   },
+   {
+    "name": "TEL OD 40MG TELMISARTAN 40MG",
+    "qty": 65.0,
+    "price": 28.4,
+    "amount": 1846.0
+   },
+   {
+    "name": "FLUDROCORTISONE 100MCG (FLORICOT)",
+    "qty": 35.0,
+    "price": 105.0,
+    "amount": 3675.0
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "NEVOX XR 500MG METFORMIN HCL USP",
+    "qty": 130.0,
+    "price": 15.1,
+    "amount": 1963.0
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "DIAMICRON 80MG GLICIAZIDE TABLET",
+    "qty": 34.0,
+    "price": 22.4,
+    "amount": 761.6
+   },
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) SITAGLIPTIN",
+    "qty": 65.0,
+    "price": 8.6,
+    "amount": 559.0
+   },
+   {
+    "name": "T4 50MCG LEVOTHYROXINE TABLET",
+    "qty": 100.0,
+    "price": 12.1,
+    "amount": 1210.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 12,
+  "gross": 20147.95,
+  "discount": 0.0,
+  "net": 20147.95,
+  "cash_tendered": 20147.95,
+  "balance": 0.0
+ },
+ {
+  "file": "109 Green 32.pdf",
+  "file_seq": 109,
+  "colour": "Green",
+  "tag_no": 32,
+  "tag": "Green-32",
+  "date": "8-Aug-2026",
+  "time": "8:17:50PM",
+  "invoice": 109,
+  "body_tag": "G 32",
+  "items": [
+   {
+    "name": "DESATROL 5MG DESLORATADINE TABLET",
+    "qty": 30.0,
+    "price": 18.0,
+    "amount": 540.0
+   },
+   {
+    "name": "NEVOX XR 500MG METFORMIN HCL USP",
+    "qty": 65.0,
+    "price": 15.1,
+    "amount": 981.5
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "FINAST 5MG FINASTERIDE 5MG TABLET",
+    "qty": 65.0,
+    "price": 61.0,
+    "amount": 3965.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "DUSPATALIN RETARD 200MG MEBEVERINE",
+    "qty": 65.0,
+    "price": 228.46,
+    "amount": 14849.9
+   },
+   {
+    "name": "AMILEB 10MG AMITRIPTYLINE TABLET",
+    "qty": 65.0,
+    "price": 4.32,
+    "amount": 280.8
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 24350.8,
+  "discount": 0.0,
+  "net": 24350.8,
+  "cash_tendered": 24350.8,
+  "balance": 0.0
+ },
+ {
+  "file": "110 Green 29.pdf",
+  "file_seq": 110,
+  "colour": "Green",
+  "tag_no": 29,
+  "tag": "Green-29",
+  "date": "8-Aug-2026",
+  "time": "8:16:50PM",
+  "invoice": 110,
+  "body_tag": "G 29",
+  "items": [
+   {
+    "name": "CLOPIVAS 75MG CLOPIDOGREL TABLET",
+    "qty": 65.0,
+    "price": 15.87,
+    "amount": 1031.55
+   }
+  ],
+  "warnings": [],
+  "item_count": 1,
+  "gross": 1031.55,
+  "discount": 0.0,
+  "net": 1031.55,
+  "cash_tendered": 1031.55,
+  "balance": 0.0
+ },
+ {
+  "file": "111 Green 12.pdf",
+  "file_seq": 111,
+  "colour": "Green",
+  "tag_no": 12,
+  "tag": "Green-12",
+  "date": "8-Aug-2026",
+  "time": "8:10:19PM",
+  "invoice": 111,
+  "body_tag": "G 12",
+  "items": [
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "TERBINAFORCE CREAM TERBINAFINE 15G",
+    "qty": 2.0,
+    "price": 658.0,
+    "amount": 1316.0
+   },
+   {
+    "name": "HEXILON 4MG METHYLPREDNISOLONE",
+    "qty": 15.0,
+    "price": 23.52,
+    "amount": 352.8
+   },
+   {
+    "name": "T4 50MCG LEVOTHYROXINE TABLET",
+    "qty": 65.0,
+    "price": 12.1,
+    "amount": 786.5
+   },
+   {
+    "name": "FOLIMOR 1MG FOLIC ACID 1MG TABLET",
+    "qty": 65.0,
+    "price": 4.5,
+    "amount": 292.5
+   },
+   {
+    "name": "RANCV 500MG RANOLAZINE EXTENDED",
+    "qty": 130.0,
+    "price": 49.02,
+    "amount": 6372.6
+   },
+   {
+    "name": "ALDACTONE-A 25MG SPIRONOLACTONE",
+    "qty": 33.0,
+    "price": 17.76,
+    "amount": 586.08
+   },
+   {
+    "name": "ZAART 25MG LOSARTAN POTASSIUM",
+    "qty": 65.0,
+    "price": 12.48,
+    "amount": 811.2
+   },
+   {
+    "name": "BETALOC 50MG METROPOLOL TARTRATE",
+    "qty": 65.0,
+    "price": 32.07,
+    "amount": 2084.55
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "NOKLOT 75MG CLOPIDAGREL TABLET",
+    "qty": 65.0,
+    "price": 34.78,
+    "amount": 2260.7
+   }
+  ],
+  "warnings": [],
+  "item_count": 11,
+  "gross": 19867.93,
+  "discount": 0.0,
+  "net": 19867.93,
+  "cash_tendered": 19867.93,
+  "balance": 0.0
+ },
+ {
+  "file": "113 Green 48.pdf",
+  "file_seq": 113,
+  "colour": "Green",
+  "tag_no": 48,
+  "tag": "Green-48",
+  "date": "8-Aug-2026",
+  "time": "8:22:26PM",
+  "invoice": 113,
+  "body_tag": "G 48",
+  "items": [
+   {
+    "name": "DESATROL 5MG DESLORATADINE TABLET",
+    "qty": 20.0,
+    "price": 18.0,
+    "amount": 360.0
+   },
+   {
+    "name": "MONTIGET 10MG MONTELUKAST TABLET",
+    "qty": 65.0,
+    "price": 32.71,
+    "amount": 2126.15
+   },
+   {
+    "name": "FEXIGRA 180MG FEXOFENADINE TABLET",
+    "qty": 65.0,
+    "price": 49.03,
+    "amount": 3186.95
+   }
+  ],
+  "warnings": [],
+  "item_count": 3,
+  "gross": 5673.1,
+  "discount": 0.0,
+  "net": 5673.1,
+  "cash_tendered": 5673.1,
+  "balance": 0.0
+ },
+ {
+  "file": "115 Green 15.pdf",
+  "file_seq": 115,
+  "colour": "Green",
+  "tag_no": 15,
+  "tag": "Green-15",
+  "date": "8-Aug-2026",
+  "time": "8:11:40PM",
+  "invoice": 115,
+  "body_tag": "G 15",
+  "items": [
+   {
+    "name": "AQUEOUS CREAM AQUEOUS CREAM",
+    "qty": 1.0,
+    "price": 330.0,
+    "amount": 330.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 1,
+  "gross": 330.0,
+  "discount": 0.0,
+  "net": 330.0,
+  "cash_tendered": 330.0,
+  "balance": 0.0
+ },
+ {
+  "file": "127 Red 43.pdf",
+  "file_seq": 127,
+  "colour": "Red",
+  "tag_no": 43,
+  "tag": "Red-43",
+  "date": "8-Aug-2026",
+  "time": "8:35:27PM",
+  "invoice": 127,
+  "body_tag": "R 43",
+  "items": [
+   {
+    "name": "FLUTICONE NASAL SPRAY FLUTICASONE",
+    "qty": 1.0,
+    "price": 1320.0,
+    "amount": 1320.0
+   },
+   {
+    "name": "H.C.T 25MG (LEBEN)",
+    "qty": 65.0,
+    "price": 1.15,
+    "amount": 74.75
+   },
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ZAART 50MG LOSARTAN POTASSIUM",
+    "qty": 130.0,
+    "price": 20.43,
+    "amount": 2655.9
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "BETALOC ZOK 25MG METOPROLOL",
+    "qty": 130.0,
+    "price": 43.71,
+    "amount": 5682.3
+   },
+   {
+    "name": "FENADINE 180MG FEXOFENADINE TABLET",
+    "qty": 7.0,
+    "price": 45.82,
+    "amount": 320.74
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 13776.89,
+  "discount": 0.0,
+  "net": 13776.89,
+  "cash_tendered": 13776.89,
+  "balance": 0.0
+ },
+ {
+  "file": "130 Green 31.pdf",
+  "file_seq": 130,
+  "colour": "Green",
+  "tag_no": 31,
+  "tag": "Green-31",
+  "date": "8-Aug-2026",
+  "time": "8:17:31PM",
+  "invoice": 130,
+  "body_tag": "G 31",
+  "items": [
+   {
+    "name": "CEFTIL 500MG CEFUROXIME AXETIL",
+    "qty": 14.0,
+    "price": 129.0,
+    "amount": 1806.0
+   },
+   {
+    "name": "RAPISOL 500mg PARACETAMOL 500mg",
+    "qty": 30.0,
+    "price": 3.49,
+    "amount": 104.7
+   },
+   {
+    "name": "LILAC SYRUP LACTULOSE 120ML",
+    "qty": 1.0,
+    "price": 590.0,
+    "amount": 590.0
+   },
+   {
+    "name": "CARTICARE CS CLUCOSAMINE &",
+    "qty": 65.0,
+    "price": 120.0,
+    "amount": 7800.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 4,
+  "gross": 10300.7,
+  "discount": 0.0,
+  "net": 10300.7,
+  "cash_tendered": 10300.7,
+  "balance": 0.0
+ },
+ {
+  "file": "135 Green 47.pdf",
+  "file_seq": 135,
+  "colour": "Green",
+  "tag_no": 47,
+  "tag": "Green-47",
+  "date": "8-Aug-2026",
+  "time": "8:21:58PM",
+  "invoice": 135,
+  "body_tag": "G 47",
+  "items": [
+   {
+    "name": "FAMOTIDINE 20MG [SPMC] FAMOTADINE",
+    "qty": 30.0,
+    "price": 2.0,
+    "amount": 60.0
+   },
+   {
+    "name": "ZYCEL 200MG CELECOXIB CAPSULE",
+    "qty": 30.0,
+    "price": 52.88,
+    "amount": 1586.4
+   },
+   {
+    "name": "PANADOL 500MG PARACETAMOL TABLET",
+    "qty": 40.0,
+    "price": 3.49,
+    "amount": 139.6
+   },
+   {
+    "name": "PANTODAC 40MG PANTOPRAZOLE",
+    "qty": 40.0,
+    "price": 55.59,
+    "amount": 2223.6
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "ZEOS 10MG LORATADINE TABLET",
+    "qty": 20.0,
+    "price": 37.0,
+    "amount": 740.0
+   },
+   {
+    "name": "METHOREX 2.5MG METHOTREXATE",
+    "qty": 20.0,
+    "price": 23.98,
+    "amount": 479.6
+   },
+   {
+    "name": "CARTICARE CS CLUCOSAMINE &",
+    "qty": 65.0,
+    "price": 120.0,
+    "amount": 7800.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 9,
+  "gross": 18034.2,
+  "discount": 0.0,
+  "net": 18034.2,
+  "cash_tendered": 18034.2,
+  "balance": 0.0
+ },
+ {
+  "file": "137 Black 02.pdf",
+  "file_seq": 137,
+  "colour": "Black",
+  "tag_no": 2,
+  "tag": "Black-02",
+  "date": "8-Aug-2026",
+  "time": "7:59:43PM",
+  "invoice": 137,
+  "body_tag": "BLACK 2",
+  "items": [
+   {
+    "name": "DIAMICRON MR 60MG GLICLAZIDE 60MG",
+    "qty": 130.0,
+    "price": 72.63,
+    "amount": 9441.9
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "GLYCOMET SR 500MG METFORMIN",
+    "qty": 130.0,
+    "price": 12.6,
+    "amount": 1638.0
+   },
+   {
+    "name": "DFLOZIN 5MG DAPAGLIFLOZIN TABLET",
+    "qty": 49.0,
+    "price": 49.28,
+    "amount": 2414.72
+   }
+  ],
+  "warnings": [],
+  "item_count": 4,
+  "gross": 15444.62,
+  "discount": 0.0,
+  "net": 15444.62,
+  "cash_tendered": 15444.62,
+  "balance": 0.0
+ },
+ {
+  "file": "138 Green 54.pdf",
+  "file_seq": 138,
+  "colour": "Green",
+  "tag_no": 54,
+  "tag": "Green-54",
+  "date": "8-Aug-2026",
+  "time": "8:23:45PM",
+  "invoice": 138,
+  "body_tag": "G 54",
+  "items": [
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ZOSERT 100MG SERTRALINE",
+    "qty": 65.0,
+    "price": 72.29,
+    "amount": 4698.85
+   },
+   {
+    "name": "NEUROBION VITAMIN B1+B6 +B12 TABLET",
+    "qty": 65.0,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "INOSITA 100MG SITAGLIPTIN 100MG",
+    "qty": 65.0,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "DIAMICRON 80MG GLICIAZIDE TABLET",
+    "qty": 213.0,
+    "price": 22.4,
+    "amount": 4771.2
+   },
+   {
+    "name": "GLUCOPHAGE XR 1000MG **",
+    "qty": 130.0,
+    "price": 59.5,
+    "amount": 7735.0
+   },
+   {
+    "name": "BISOZA 10MG ARIPIRAZOLE TABLET",
+    "qty": 65.0,
+    "price": 34.31,
+    "amount": 2230.15
+   },
+   {
+    "name": "BISOZA 5MG ARIPIRAZOLE TABLET",
+    "qty": 65.0,
+    "price": 20.84,
+    "amount": 1354.6
+   }
+  ],
+  "warnings": [],
+  "item_count": 9,
+  "gross": 33952.3,
+  "discount": 0.0,
+  "net": 33952.3,
+  "cash_tendered": 33952.3,
+  "balance": 0.0
+ },
+ {
+  "file": "145 Green 49.pdf",
+  "file_seq": 145,
+  "colour": "Green",
+  "tag_no": 49,
+  "tag": "Green-49",
+  "date": "8-Aug-2026",
+  "time": "8:23:02PM",
+  "invoice": 145,
+  "body_tag": "G 49",
+  "items": [
+   {
+    "name": "EMULSIFYING OINTMENT SOAP",
+    "qty": 2.0,
+    "price": 380.0,
+    "amount": 760.0
+   },
+   {
+    "name": "BETALEB CREAM BETAMETHASONE",
+    "qty": 2.0,
+    "price": 290.0,
+    "amount": 580.0
+   },
+   {
+    "name": "FORACORT 400MCG INHALER",
+    "qty": 1.0,
+    "price": 2388.0,
+    "amount": 2388.0
+   },
+   {
+    "name": "VOLTAREN 50MG DICLOFENAC SODIUM",
+    "qty": 14.0,
+    "price": 25.81,
+    "amount": 361.34
+   },
+   {
+    "name": "OMEZ 20MG OMEPRAZOLE 20MG",
+    "qty": 14.0,
+    "price": 8.94,
+    "amount": 125.16
+   },
+   {
+    "name": "MANOREST 0.5MG ALPRAZOLAM TABLET",
+    "qty": 7.0,
+    "price": 19.67,
+    "amount": 137.69
+   },
+   {
+    "name": "DESATROL 5MG DESLORATADINE TABLET",
+    "qty": 30.0,
+    "price": 18.0,
+    "amount": 540.0
+   },
+   {
+    "name": "T4 50MCG LEVOTHYROXINE TABLET",
+    "qty": 65.0,
+    "price": 12.1,
+    "amount": 786.5
+   },
+   {
+    "name": "INOSITA 100MG SITAGLIPTIN 100MG",
+    "qty": 65.0,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "GLYCOMET SR 500MG METFORMIN",
+    "qty": 200.0,
+    "price": 12.6,
+    "amount": 2520.0
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "ZAART 25MG LOSARTAN POTASSIUM",
+    "qty": 65.0,
+    "price": 12.48,
+    "amount": 811.2
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 13,
+  "gross": 18889.89,
+  "discount": 0.0,
+  "net": 18889.89,
+  "cash_tendered": 18889.89,
+  "balance": 0.0
+ },
+ {
+  "file": "146 Red 35.pdf",
+  "file_seq": 146,
+  "colour": "Red",
+  "tag_no": 35,
+  "tag": "Red-35",
+  "date": "8-Aug-2026",
+  "time": "8:33:27PM",
+  "invoice": 146,
+  "body_tag": "R 35",
+  "items": [
+   {
+    "name": "GLUCOPHAGE XR 500MG METFORMION",
+    "qty": 130.0,
+    "price": 15.29,
+    "amount": 1987.7
+   },
+   {
+    "name": "FERUP ** FERROUS FUMARATE CAPSULE",
+    "qty": 65.0,
+    "price": 22.0,
+    "amount": 1430.0
+   },
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "LEFRA-10MG LEFLUNOMIDE TABLET",
+    "qty": 130.0,
+    "price": 79.98,
+    "amount": 10397.4
+   },
+   {
+    "name": "CARTICARE CS CLUCOSAMINE &",
+    "qty": 65.0,
+    "price": 120.0,
+    "amount": 7800.0
+   },
+   {
+    "name": "SAZO EN 500MG SULFASALAZINE",
+    "qty": 130.0,
+    "price": 33.5,
+    "amount": 4355.0
+   },
+   {
+    "name": "ZOSERT 100MG SERTRALINE",
+    "qty": 65.0,
+    "price": 72.29,
+    "amount": 4698.85
+   },
+   {
+    "name": "T4 50MCG LEVOTHYROXINE TABLET",
+    "qty": 65.0,
+    "price": 12.1,
+    "amount": 786.5
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "OMEGA 3 FISH OIL (COSTAR) CAPSULE",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 10,
+  "gross": 39190.45,
+  "discount": 0.0,
+  "net": 39190.45,
+  "cash_tendered": 39190.45,
+  "balance": 0.0
+ },
+ {
+  "file": "149 Green 51.pdf",
+  "file_seq": 149,
+  "colour": "Green",
+  "tag_no": 51,
+  "tag": "Green-51",
+  "date": "8-Aug-2026",
+  "time": "8:23:26PM",
+  "invoice": 149,
+  "body_tag": "G 51",
+  "items": [
+   {
+    "name": "CLOPIVAS 75MG CLOPIDOGREL TABLET",
+    "qty": 65.0,
+    "price": 15.87,
+    "amount": 1031.55
+   },
+   {
+    "name": "ECOSPRIN 75MG ASPRIN TABLET",
+    "qty": 65.0,
+    "price": 5.91,
+    "amount": 384.15
+   },
+   {
+    "name": "ATORLIP 40MG ATORVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "ZAART 50MG LOSARTAN POTASSIUM",
+    "qty": 65.0,
+    "price": 20.43,
+    "amount": 1327.95
+   },
+   {
+    "name": "ZAART - H LOSARTAN POTASSIUM &",
+    "qty": 65.0,
+    "price": 28.18,
+    "amount": 1831.7
+   },
+   {
+    "name": "CILACAR 5MG CILNIDIPINE TABLET",
+    "qty": 130.0,
+    "price": 47.83,
+    "amount": 6217.9
+   },
+   {
+    "name": "CONCOR 2.5MG BISOPROLOL FUMARATE",
+    "qty": 65.0,
+    "price": 36.0,
+    "amount": 2340.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 15711.15,
+  "discount": 0.0,
+  "net": 15711.15,
+  "cash_tendered": 15711.15,
+  "balance": 0.0
+ },
+ {
+  "file": "151 Green 65.pdf",
+  "file_seq": 151,
+  "colour": "Green",
+  "tag_no": 65,
+  "tag": "Green-65",
+  "date": "8-Aug-2026",
+  "time": "8:25:33PM",
+  "invoice": 151,
+  "body_tag": "G 65",
+  "items": [
+   {
+    "name": "ZAART 50MG LOSARTAN POTASSIUM",
+    "qty": 130.0,
+    "price": 20.43,
+    "amount": 2655.9
+   },
+   {
+    "name": "ASTHALIN 100MCG INHALER SALBUTAMOL",
+    "qty": 1.0,
+    "price": 613.0,
+    "amount": 613.0
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "FORACORT 400MCG INHALER",
+    "qty": 1.0,
+    "price": 2388.0,
+    "amount": 2388.0
+   },
+   {
+    "name": "AMLONG 5MG AMILODIPINE TABLET",
+    "qty": 65.0,
+    "price": 16.12,
+    "amount": 1047.8
+   },
+   {
+    "name": "GLYCOMET 500MG METFORMIN",
+    "qty": 130.0,
+    "price": 7.44,
+    "amount": 967.2
+   },
+   {
+    "name": "EMPA 10MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "RECLIDE 80MG GLICLAZIDE 80MG",
+    "qty": 65.0,
+    "price": 19.85,
+    "amount": 1290.25
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 9,
+  "gross": 18452.15,
+  "discount": 0.0,
+  "net": 18452.15,
+  "cash_tendered": 18452.15,
+  "balance": 0.0
+ },
+ {
+  "file": "154 Green 59.pdf",
+  "file_seq": 154,
+  "colour": "Green",
+  "tag_no": 59,
+  "tag": "Green-59",
+  "date": "8-Aug-2026",
+  "time": "8:24:28PM",
+  "invoice": 154,
+  "body_tag": "G 59",
+  "items": [
+   {
+    "name": "CLOPIVAS 75MG CLOPIDOGREL TABLET",
+    "qty": 65.0,
+    "price": 15.87,
+    "amount": 1031.55
+   },
+   {
+    "name": "EZITA 10MG EZETAMIBE TABLET",
+    "qty": 65.0,
+    "price": 38.8,
+    "amount": 2522.0
+   },
+   {
+    "name": "EMPA 10MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) SITAGLIPTIN",
+    "qty": 130.0,
+    "price": 8.6,
+    "amount": 1118.0
+   },
+   {
+    "name": "DIAMICRON MR 30MG GLICLAZIDE",
+    "qty": 130.0,
+    "price": 45.0,
+    "amount": 5850.0
+   },
+   {
+    "name": "CONCOR 2.5MG BISOPROLOL FUMARATE",
+    "qty": 65.0,
+    "price": 36.0,
+    "amount": 2340.0
+   },
+   {
+    "name": "ZAART 25MG LOSARTAN POTASSIUM",
+    "qty": 33.0,
+    "price": 12.48,
+    "amount": 411.84
+   },
+   {
+    "name": "ATORLIP 40MG ATORVASTATIN TABLET",
+    "qty": 130.0,
+    "price": 39.66,
+    "amount": 5155.8
+   },
+   {
+    "name": "ECORIN 150MG ASPIRIN DELSYED",
+    "qty": 65.0,
+    "price": 9.95,
+    "amount": 646.75
+   }
+  ],
+  "warnings": [],
+  "item_count": 9,
+  "gross": 23560.94,
+  "discount": 0.0,
+  "net": 23560.94,
+  "cash_tendered": 23560.94,
+  "balance": 0.0
+ },
+ {
+  "file": "155 Green 58.pdf",
+  "file_seq": 155,
+  "colour": "Green",
+  "tag_no": 58,
+  "tag": "Green-58",
+  "date": "8-Aug-2026",
+  "time": "8:24:10PM",
+  "invoice": 155,
+  "body_tag": "G 58",
+  "items": [
+   {
+    "name": "ASTROCORT CREAM 1% **",
+    "qty": 2.0,
+    "price": 330.0,
+    "amount": 660.0
+   },
+   {
+    "name": "CLOPIVAS 75MG CLOPIDOGREL TABLET",
+    "qty": 65.0,
+    "price": 15.87,
+    "amount": 1031.55
+   },
+   {
+    "name": "FINAST 5MG FINASTERIDE 5MG TABLET",
+    "qty": 65.0,
+    "price": 61.0,
+    "amount": 3965.0
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "ZAART 25MG LOSARTAN POTASSIUM",
+    "qty": 130.0,
+    "price": 12.48,
+    "amount": 1622.4
+   }
+  ],
+  "warnings": [],
+  "item_count": 5,
+  "gross": 8434.65,
+  "discount": 0.0,
+  "net": 8434.65,
+  "cash_tendered": 8434.65,
+  "balance": 0.0
+ },
+ {
+  "file": "156 Green 44.pdf",
+  "file_seq": 156,
+  "colour": "Green",
+  "tag_no": 44,
+  "tag": "Green-44",
+  "date": "8-Aug-2026",
+  "time": "8:21:15PM",
+  "invoice": 156,
+  "body_tag": "G 44",
+  "items": [
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 130.0,
+    "price": 33.75,
+    "amount": 4387.5
+   },
+   {
+    "name": "AQUEOUS CREAM AQUEOUS CREAM",
+    "qty": 2.0,
+    "price": 330.0,
+    "amount": 660.0
+   },
+   {
+    "name": "THYMOL IN SPIRIT 3% ** 30ML",
+    "qty": 2.0,
+    "price": 200.0,
+    "amount": 400.0
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "IROVEL 150MG IRBESARTAN TABLET",
+    "qty": 65.0,
+    "price": 69.54,
+    "amount": 4520.1
+   },
+   {
+    "name": "VERMOX 100MG MEBENDAZOLE 6-S",
+    "qty": 1.0,
+    "price": 463.0,
+    "amount": 463.0
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "CILACAR 5MG CILNIDIPINE TABLET",
+    "qty": 33.0,
+    "price": 47.83,
+    "amount": 1578.39
+   }
+  ],
+  "warnings": [],
+  "item_count": 8,
+  "gross": 17013.99,
+  "discount": 0.0,
+  "net": 17013.99,
+  "cash_tendered": 17013.99,
+  "balance": 0.0
+ },
+ {
+  "file": "163 Red 14.pdf",
+  "file_seq": 163,
+  "colour": "Red",
+  "tag_no": 14,
+  "tag": "Red-14",
+  "date": "8-Aug-2026",
+  "time": "8:30:53PM",
+  "invoice": 163,
+  "body_tag": "R 14",
+  "items": [
+   {
+    "name": "CIPROBID 500MG CIPROFLOXACILLIN",
+    "qty": 28.0,
+    "price": 16.88,
+    "amount": 472.64
+   },
+   {
+    "name": "T4 50MCG LEVOTHYROXINE TABLET",
+    "qty": 65.0,
+    "price": 12.1,
+    "amount": 786.5
+   },
+   {
+    "name": "PRODEP 20MG FLUOXETINE HCL",
+    "qty": 65.0,
+    "price": 21.85,
+    "amount": 1420.25
+   },
+   {
+    "name": "DUSPATALIN 135MG MEBEVERINE TABLET",
+    "qty": 130.0,
+    "price": 130.04,
+    "amount": 16905.2
+   }
+  ],
+  "warnings": [],
+  "item_count": 4,
+  "gross": 19584.59,
+  "discount": 0.0,
+  "net": 19584.59,
+  "cash_tendered": 19584.59,
+  "balance": 0.0
+ },
+ {
+  "file": "164 Green 68.pdf",
+  "file_seq": 164,
+  "colour": "Green",
+  "tag_no": 68,
+  "tag": "Green-68",
+  "date": "8-Aug-2026",
+  "time": "8:26:24PM",
+  "invoice": 164,
+  "body_tag": "G 68",
+  "items": [
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "FAMOTIDINE 20MG [SPMC] FAMOTADINE",
+    "qty": 65.0,
+    "price": 2.0,
+    "amount": 130.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 2,
+  "gross": 2697.5,
+  "discount": 0.0,
+  "net": 2697.5,
+  "cash_tendered": 2697.5,
+  "balance": 0.0
+ },
+ {
+  "file": "165 Green 64.pdf",
+  "file_seq": 165,
+  "colour": "Green",
+  "tag_no": 64,
+  "tag": "Green-64",
+  "date": "8-Aug-2026",
+  "time": "8:25:18PM",
+  "invoice": 165,
+  "body_tag": "G 64",
+  "items": [
+   {
+    "name": "INOSITA 100MG SITAGLIPTIN 100MG",
+    "qty": 65.0,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "ROSTIN 5MG ROSUVASTATIN TABLET 5MG",
+    "qty": 65.0,
+    "price": 20.0,
+    "amount": 1300.0
+   },
+   {
+    "name": "EMPA 10MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "GLYCOMET SR 500MG METFORMIN",
+    "qty": 260.0,
+    "price": 12.6,
+    "amount": 3276.0
+   },
+   {
+    "name": "RECLIDE 80MG GLICLAZIDE 80MG",
+    "qty": 65.0,
+    "price": 19.85,
+    "amount": 1290.25
+   },
+   {
+    "name": "LANTUS PENFIL INJ: *** ZINC",
+    "qty": 2.0,
+    "price": 2860.55,
+    "amount": 5721.1
+   }
+  ],
+  "warnings": [],
+  "item_count": 6,
+  "gross": 20947.35,
+  "discount": 0.0,
+  "net": 20947.35,
+  "cash_tendered": 20947.35,
+  "balance": 0.0
+ },
+ {
+  "file": "166 Blue 02.pdf",
+  "file_seq": 166,
+  "colour": "Blue",
+  "tag_no": 2,
+  "tag": "Blue-02",
+  "date": "8-Aug-2026",
+  "time": "8:02:00PM",
+  "invoice": 166,
+  "body_tag": "BLUE 2",
+  "items": [
+   {
+    "name": "ZIN 10MG CETIRIZINE DIHYDROCHLORIDE",
+    "qty": 14.0,
+    "price": 3.4,
+    "amount": 47.6
+   },
+   {
+    "name": "BETALEB CREAM BETAMETHASONE",
+    "qty": 2.0,
+    "price": 290.0,
+    "amount": 580.0
+   },
+   {
+    "name": "AQUEOUS CREAM AQUEOUS CREAM",
+    "qty": 2.0,
+    "price": 330.0,
+    "amount": 660.0
+   },
+   {
+    "name": "DEPLUS 1000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "VERAPAMIL 40MG [SPMC] VERAPAMIL",
+    "qty": 30.0,
+    "price": 2.4,
+    "amount": 72.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 5,
+  "gross": 3927.1,
+  "discount": 0.0,
+  "net": 3927.1,
+  "cash_tendered": 3927.1,
+  "balance": 0.0
+ },
+ {
+  "file": "167 Green 61.pdf",
+  "file_seq": 167,
+  "colour": "Green",
+  "tag_no": 61,
+  "tag": "Green-61",
+  "date": "8-Aug-2026",
+  "time": "8:24:52PM",
+  "invoice": 167,
+  "body_tag": "G 61",
+  "items": [
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 10.0,
+    "price": 33.75,
+    "amount": 337.5
+   },
+   {
+    "name": "ZIN 10MG CETIRIZINE DIHYDROCHLORIDE",
+    "qty": 10.0,
+    "price": 3.4,
+    "amount": 34.0
+   },
+   {
+    "name": "DERIPHYLLIN RETARD 150MG Etofylline",
+    "qty": 10.0,
+    "price": 5.24,
+    "amount": 52.4
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "OMEGA 3 FISH OIL (COSTAR) CAPSULE",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 5,
+  "gross": 6858.9,
+  "discount": 0.0,
+  "net": 6858.9,
+  "cash_tendered": 6858.9,
+  "balance": 0.0
+ },
+ {
+  "file": "171 Green 46.pdf",
+  "file_seq": 171,
+  "colour": "Green",
+  "tag_no": 46,
+  "tag": "Green-46",
+  "date": "8-Aug-2026",
+  "time": "8:21:37PM",
+  "invoice": 171,
+  "body_tag": "G 46",
+  "items": [
+   {
+    "name": "GLUCOPHAGE XR 500MG METFORMION",
+    "qty": 130.0,
+    "price": 15.29,
+    "amount": 1987.7
+   },
+   {
+    "name": "INOSITA 100MG SITAGLIPTIN 100MG",
+    "qty": 65.0,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "DUZELA 30MG DULOXETINE",
+    "qty": 65.0,
+    "price": 74.85,
+    "amount": 4865.25
+   },
+   {
+    "name": "EMPA 10MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "ATORLIP 20MG ATORVASTATIN 20MG",
+    "qty": 65.0,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "NEUROBION VITAMIN B1+B6 +B12 TABLET",
+    "qty": 65.0,
+    "price": 58.0,
+    "amount": 3770.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 6,
+  "gross": 21138.65,
+  "discount": 0.0,
+  "net": 21138.65,
+  "cash_tendered": 21138.65,
+  "balance": 0.0
+ },
+ {
+  "file": "173 Green 67.pdf",
+  "file_seq": 173,
+  "colour": "Green",
+  "tag_no": 67,
+  "tag": "Green-67",
+  "date": "8-Aug-2026",
+  "time": "8:25:56PM",
+  "invoice": 173,
+  "body_tag": "G 67",
+  "items": [
+   {
+    "name": "FORCEVAL MULTIVITAMIN & MINERALS",
+    "qty": 65.0,
+    "price": 109.63,
+    "amount": 7125.95
+   },
+   {
+    "name": "PANTODAC 20MG PANTOPRAZOLE",
+    "qty": 20.0,
+    "price": 33.75,
+    "amount": 675.0
+   },
+   {
+    "name": "SUCRAFIL SUSPENSION SUCRLFATE",
+    "qty": 1.0,
+    "price": 1318.0,
+    "amount": 1318.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** TAMSULOSIN",
+    "qty": 65.0,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "CILACAR 5MG CILNIDIPINE TABLET",
+    "qty": 130.0,
+    "price": 47.83,
+    "amount": 6217.9
+   },
+   {
+    "name": "DUZELA 30MG DULOXETINE",
+    "qty": 65.0,
+    "price": 74.85,
+    "amount": 4865.25
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "NEUROBION VITAMIN B1+B6 +B12 TABLET",
+    "qty": 65.0,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "INOSITA 100MG SITAGLIPTIN 100MG",
+    "qty": 65.0,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "DIAMICRON MR 60MG GLICLAZIDE 60MG",
+    "qty": 65.0,
+    "price": 72.63,
+    "amount": 4720.95
+   },
+   {
+    "name": "GLUCOPHAGE XR 500MG METFORMION",
+    "qty": 260.0,
+    "price": 15.29,
+    "amount": 3975.4
+   },
+   {
+    "name": "MELO 3 MELATONIN 3MG TABLET",
+    "qty": 130.0,
+    "price": 25.0,
+    "amount": 3250.0
+   },
+   {
+    "name": "OMEGA 3 FISH OIL (COSTAR) CAPSULE",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "EMPA 25MG EMPAGLIFLOZIN TABLET",
+    "qty": 65.0,
+    "price": 135.0,
+    "amount": 8775.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 15,
+  "gross": 61636.35,
+  "discount": 0.0,
+  "net": 61636.35,
+  "cash_tendered": 61636.35,
+  "balance": 0.0
+ },
+ {
+  "file": "175 Blue 03.pdf",
+  "file_seq": 175,
+  "colour": "Blue",
+  "tag_no": 3,
+  "tag": "Blue-03",
+  "date": "8-Aug-2026",
+  "time": "8:02:41PM",
+  "invoice": 175,
+  "body_tag": "BLUE 3",
+  "items": [
+   {
+    "name": "OMEGA 3 FISH OIL (COSTAR) CAPSULE",
+    "qty": 65.0,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "CLOPIVAS 75MG CLOPIDOGREL TABLET",
+    "qty": 65.0,
+    "price": 15.87,
+    "amount": 1031.55
+   },
+   {
+    "name": "NEXIUM 20MG ESOMEPRAZOLE TABLET",
+    "qty": 28.0,
+    "price": 40.0,
+    "amount": 1120.0
+   },
+   {
+    "name": "FAMOTIDINE 20MG [SPMC] FAMOTADINE",
+    "qty": 30.0,
+    "price": 2.0,
+    "amount": 60.0
+   },
+   {
+    "name": "ZYCEL 200MG CELECOXIB CAPSULE",
+    "qty": 30.0,
+    "price": 52.88,
+    "amount": 1586.4
+   },
+   {
+    "name": "FOLIMOR 1MG FOLIC ACID 1MG TABLET",
+    "qty": 65.0,
+    "price": 4.5,
+    "amount": 292.5
+   },
+   {
+    "name": "FERUP ** FERROUS FUMARATE CAPSULE",
+    "qty": 65.0,
+    "price": 22.0,
+    "amount": 1430.0
+   },
+   {
+    "name": "BISOVIC 2.5MG BISOPROLOL FUMARATE",
+    "qty": 33.0,
+    "price": 25.43,
+    "amount": 839.19
+   },
+   {
+    "name": "ATORLIP 10MG ATORVASTATIN 10MG",
+    "qty": 65.0,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "ENVAS 5MG ENALAPRIL TABLET",
+    "qty": 35.0,
+    "price": 4.96,
+    "amount": 173.6
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "CARTICARE CS CLUCOSAMINE &",
+    "qty": 65.0,
+    "price": 120.0,
+    "amount": 7800.0
+   },
+   {
+    "name": "SEGO 2565 (M) KNEE SUPPORT ** NOS",
+    "qty": 1.0,
+    "price": 2170.0,
+    "amount": 2170.0
+   },
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] ASCORBIC",
+    "qty": 65.0,
+    "price": 1.7,
+    "amount": 110.5
+   }
+  ],
+  "warnings": [],
+  "item_count": 14,
+  "gross": 24836.24,
+  "discount": 0.0,
+  "net": 24836.24,
+  "cash_tendered": 24836.24,
+  "balance": 0.0
+ },
+ {
+  "file": "176 Black 08.pdf",
+  "file_seq": 176,
+  "colour": "Black",
+  "tag_no": 8,
+  "tag": "Black-08",
+  "date": "8-Aug-2026",
+  "time": "8:01:18PM",
+  "invoice": 176,
+  "body_tag": "BLACK 8",
+  "items": [
+   {
+    "name": "GINEE 750MG ** GLUCOSAMINE CITRAT",
+    "qty": 65.0,
+    "price": 74.0,
+    "amount": 4810.0
+   },
+   {
+    "name": "NEUROBION VITAMIN B1+B6 +B12 TABLET",
+    "qty": 65.0,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "DUZELA 20MG DULOXETINE",
+    "qty": 65.0,
+    "price": 56.01,
+    "amount": 3640.65
+   },
+   {
+    "name": "DEPLUS 2000 ** VITAMIN D TABLET",
+    "qty": 65.0,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "ZAART 25MG LOSARTAN POTASSIUM",
+    "qty": 65.0,
+    "price": 12.48,
+    "amount": 811.2
+   },
+   {
+    "name": "LASIX 40MG FRUSAMIDE TABLET",
+    "qty": 65.0,
+    "price": 6.38,
+    "amount": 414.7
+   },
+   {
+    "name": "ROSTIN 10MG ROSUVASTATIN TABLET",
+    "qty": 65.0,
+    "price": 30.0,
+    "amount": 1950.0
+   }
+  ],
+  "warnings": [],
+  "item_count": 7,
+  "gross": 18451.55,
+  "discount": 0.0,
+  "net": 18451.55,
+  "cash_tendered": 18451.55,
+  "balance": 0.0
+ }
+]

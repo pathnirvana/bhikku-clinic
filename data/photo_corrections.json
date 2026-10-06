@@ -1,0 +1,19 @@
+{
+  "11": {
+    "tag": "Green-06",
+    "note": "Handwritten G-6 on the receipt (confirmed by user)"
+  },
+  "10036": {
+    "net": 12847.3,
+    "gross": 12847.3,
+    "note": "Final total is the written subtotal 12,847.30 (confirmed by user); the line read as 682.50 is Atorlip 10mg. Lines as read sum to 12,848.20 (0.90 reading difference)"
+  },
+  "10050": {
+    "tag": "Green-31",
+    "confidence": "high",
+    "note": "Token confirmed as G-31 by user"
+  },
+  "10052": {
+    "note": "Last item name 'Damasules' confirmed by user as written; product not identified"
+  }
+}

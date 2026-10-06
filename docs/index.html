@@ -1,0 +1,500 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Naula Clinic Medicines</title>
+<meta name="description" content="Medicines dispensed at the Bhikku Clinic Medical Camp, Naula, Sri Lanka — 8 August 2026.">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface-1: #fcfcfb;
+  --surface-2: #f3f2ee;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #6f6d68;
+  --grid: #e1e0d9;
+  --baseline: #c3c2b7;
+  --border: rgba(11,11,11,0.10);
+  --series-1: #2a78d6;
+  --series-1-soft: #cde2fb;
+  --accent-ink: #1c5cab;
+  --warn-bg: #fdf3dc;
+  --warn-ink: #6b4a00;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d;
+    --surface-1: #1a1a19;
+    --surface-2: #232321;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #9a9890;
+    --grid: #2c2c2a;
+    --baseline: #383835;
+    --border: rgba(255,255,255,0.10);
+    --series-1: #3987e5;
+    --series-1-soft: #184f95;
+    --accent-ink: #86b6ef;
+    --warn-bg: #2e2510;
+    --warn-ink: #f3d48a;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d;
+  --surface-1: #1a1a19;
+  --surface-2: #232321;
+  --text-primary: #ffffff;
+  --text-secondary: #c3c2b7;
+  --text-muted: #9a9890;
+  --grid: #2c2c2a;
+  --baseline: #383835;
+  --border: rgba(255,255,255,0.10);
+  --series-1: #3987e5;
+  --series-1-soft: #184f95;
+  --accent-ink: #86b6ef;
+  --warn-bg: #2e2510;
+  --warn-ink: #f3d48a;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--page);
+  color: var(--text-primary);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.wrap { max-width: 1160px; margin: 0 auto; padding: 24px 16px 64px; }
+header h1 { font-size: 26px; line-height: 1.2; margin: 0 0 4px; font-weight: 650; letter-spacing: -0.01em; }
+header p { margin: 0; color: var(--text-secondary); }
+.sub { font-size: 13px; color: var(--text-muted); margin-top: 6px; }
+h2 { font-size: 18px; margin: 40px 0 4px; font-weight: 600; }
+h2 + .lede { margin: 0 0 14px; color: var(--text-secondary); font-size: 14px; }
+h3 { font-size: 14px; font-weight: 600; margin: 0 0 2px; }
+.card h3 + .note { margin: 0 0 12px; }
+.note { font-size: 13px; color: var(--text-muted); }
+
+.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 20px 0 8px; position: sticky; top: 0; z-index: 5; background: var(--page); padding: 10px 0; border-bottom: 1px solid var(--grid); }
+.filters .label { font-size: 13px; color: var(--text-muted); margin-right: 4px; }
+.chip { border: 1px solid var(--border); background: var(--surface-1); color: var(--text-primary); border-radius: 999px; padding: 4px 12px; font: inherit; font-size: 13px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--text-primary); color: var(--page); border-color: var(--text-primary); }
+.chip:focus-visible, button:focus-visible, input:focus-visible, summary:focus-visible { outline: 2px solid var(--series-1); outline-offset: 2px; }
+.theme-btn { margin-left: auto; }
+.seg { display: inline-flex; border: 1px solid var(--border); border-radius: 999px; padding: 2px; background: var(--surface-1); }
+.seg .chip { border: 0; }
+.filters .sep { margin-left: 12px; }
+.ds-note { font-size: 13px; color: var(--text-secondary); margin: 4px 0 0; }
+.cov { height: 6px; border-radius: 3px; background: var(--grid); margin-top: 8px; overflow: hidden; }
+.cov > div { height: 100%; background: var(--series-1); border-radius: 0 3px 3px 0; }
+
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin-top: 16px; }
+.kpi { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+.kpi .v.t { font-size: 19px; white-space: normal; }
+.kpi .v { font-size: 23px; white-space: nowrap; font-weight: 650; line-height: 1.15; }
+.kpi .k { font-size: 13px; color: var(--text-secondary); }
+.kpi .s { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: 16px; }
+.card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 16px; min-width: 0; }
+
+/* horizontal bar list */
+.bars { display: grid; grid-template-columns: minmax(90px, max-content) 1fr; column-gap: 12px; row-gap: 6px; align-items: center; }
+.bars .name { font-size: 13px; color: var(--text-primary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 230px; }
+.bars .name small { color: var(--text-muted); }
+.bar-row { display: flex; align-items: center; gap: 8px; min-width: 0; cursor: default; }
+.bar-row:focus-visible { outline: 2px solid var(--series-1); outline-offset: 2px; border-radius: 4px; }
+.bar { height: 14px; background: var(--series-1); border-radius: 0 4px 4px 0; min-width: 2px; flex: none; }
+.bar-row:hover .bar, .bar-row:focus .bar { filter: brightness(1.12); }
+.bar-val { font-size: 12px; color: var(--text-secondary); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* histogram */
+.hist { display: flex; align-items: flex-end; gap: 2px; height: 180px; border-bottom: 1px solid var(--baseline); padding-top: 18px; }
+.hist .col { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 100%; position: relative; }
+.hist .col .b { width: 100%; background: var(--series-1); border-radius: 4px 4px 0 0; min-height: 0; }
+.hist .col .c { font-size: 11px; color: var(--text-secondary); margin-bottom: 2px; font-variant-numeric: tabular-nums; }
+.hist-x { display: flex; gap: 2px; margin-top: 4px; }
+.hist-x span { flex: 1; text-align: center; font-size: 11px; color: var(--text-muted); }
+
+.tooltip { position: fixed; pointer-events: none; z-index: 20; background: var(--text-primary); color: var(--page); font-size: 12px; padding: 6px 8px; border-radius: 6px; max-width: 280px; opacity: 0; transition: opacity .08s; }
+.tooltip.on { opacity: 1; }
+
+.callout { background: var(--warn-bg); color: var(--warn-ink); border-radius: 10px; padding: 12px 16px; font-size: 14px; }
+.callout strong { color: inherit; }
+
+/* tables */
+.tbl-tools { display: flex; gap: 8px; align-items: center; margin-bottom: 10px; flex-wrap: wrap; }
+input[type=search] { font: inherit; font-size: 14px; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface-1); color: var(--text-primary); width: min(320px, 100%); }
+.tbl-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 10px; background: var(--surface-1); max-height: 520px; overflow-y: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+th { position: sticky; top: 0; background: var(--surface-2); font-weight: 600; cursor: pointer; user-select: none; white-space: nowrap; color: var(--text-secondary); }
+th[aria-sort="ascending"]::after { content: " ▲"; font-size: 10px; }
+th[aria-sort="descending"]::after { content: " ▼"; font-size: 10px; }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.linkish { white-space: nowrap; }
+td .muted { color: var(--text-muted); }
+tr.detail td { background: var(--surface-2); }
+.pill { display: inline-block; font-size: 11px; padding: 1px 7px; border-radius: 999px; background: var(--surface-2); color: var(--text-secondary); margin: 1px 2px 1px 0; border: 1px solid var(--border); }
+.linkish { background: none; border: 0; color: var(--accent-ink); font: inherit; cursor: pointer; padding: 0; text-decoration: underline; text-underline-offset: 2px; }
+
+details.method { margin-top: 12px; }
+details.method summary { cursor: pointer; font-weight: 600; }
+details.method li { margin: 4px 0; }
+footer { margin-top: 48px; font-size: 12px; color: var(--text-muted); border-top: 1px solid var(--grid); padding-top: 12px; }
+@media (max-width: 560px) {
+  .bars .name { max-width: 140px; }
+  .kpi .v { font-size: 22px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Bhikku Clinic Medical Camp — Naula</h1>
+    <p>Medicines dispensed to Buddhist monks and nuns, 8 August 2026 · Naula, Matale District, Sri Lanka</p>
+    <p class="sub">All medicines were paid for by donors and supplied by The New Pharmacy, Kurunegala. Patients are identified only by anonymous clinic tokens (e.g. Green-05).</p>
+  </header>
+
+  <div class="filters" role="toolbar" aria-label="Choose data source and filter">
+    <span class="label">Data source</span>
+    <span class="seg" id="dsChips"></span>
+    <span class="label sep">Token series</span>
+    <span id="chips"></span>
+    <button class="chip theme-btn" id="themeBtn" type="button" aria-label="Toggle dark mode">◐ Theme</button>
+  </div>
+
+  <p class="ds-note" id="dsNote"></p>
+  <section class="kpis" id="kpis" aria-label="Headline figures"></section>
+
+  <h2>Conditions treated</h2>
+  <p class="lede">Conditions are <em>inferred from the medicines dispensed</em>, not from diagnoses. A patient on metformin is counted under Diabetes; one patient can have several conditions.</p>
+  <div class="grid2">
+    <div class="card"><h3>Most common conditions</h3><p class="note">Number of patients receiving at least one medicine for the condition</p><div class="bars" id="condPatients"></div></div>
+    <div class="card"><h3>Spend by condition</h3><p class="note">Total cost of medicines for each condition (Rs)</p><div class="bars" id="condSpend"></div></div>
+  </div>
+
+  <h2>Medicines</h2>
+  <p class="lede">Which medicines took the budget, and which were most widely prescribed.</p>
+  <div class="grid2">
+    <div class="card"><h3>Top medicines by total spend</h3><p class="note">Generic name, all brands and strengths combined (Rs)</p><div class="bars" id="medSpend"></div></div>
+    <div class="card"><h3>Most widely prescribed</h3><p class="note">Number of patients receiving each generic</p><div class="bars" id="medPatients"></div></div>
+    <div class="card"><h3>Most expensive per unit</h3><p class="note">Price per tablet / capsule / item, by product (Rs)</p><div class="bars" id="medUnit"></div></div>
+    <div class="card"><h3>Spend by drug class</h3><p class="note">Pharmacological class (Rs)</p><div class="bars" id="classSpend"></div></div>
+  </div>
+
+  <h2>Patients</h2>
+  <p class="lede">How the cost was spread across patients. Most prescriptions cover about two months (65 days) of treatment.</p>
+  <div class="grid2">
+    <div class="card"><h3>Cost per patient</h3><p class="note">Number of patients in each cost band (Rs thousands)</p><div class="hist" id="hist"></div><div class="hist-x" id="histX"></div></div>
+    <div class="card"><h3>Most expensive patients</h3><p class="note">Bill total (Rs) and main conditions</p><div class="bars" id="topPatients"></div></div>
+    <div class="card"><h3>Number of conditions per patient</h3><p class="note">Patients treated for several conditions at once (multimorbidity)</p><div class="bars" id="multi"></div></div>
+    <div class="card"><h3>Common combinations</h3><p class="note">Pairs of conditions seen together in the same patient</p><div class="bars" id="pairs"></div></div>
+  </div>
+
+  <h2>Cost saving opportunity</h2>
+  <div class="callout" id="callout"></div>
+
+  <h2>All medicines</h2>
+  <div class="tbl-tools"><input type="search" id="medSearch" placeholder="Search medicine, generic, condition…" aria-label="Search medicines"><span class="note" id="medCount"></span></div>
+  <div class="tbl-wrap"><table id="medTable"><thead></thead><tbody></tbody></table></div>
+
+  <h2>All patients</h2>
+  <div class="tbl-tools"><input type="search" id="patSearch" placeholder="Search token, medicine, condition…" aria-label="Search patients"><span class="note" id="patCount"></span></div>
+  <div class="tbl-wrap"><table id="patTable"><thead></thead><tbody></tbody></table></div>
+  <p class="note">Click a token to see its medicines.</p>
+
+  <h2>About this data</h2>
+  <div class="card" id="about"></div>
+
+  <footer>Built from the pharmacy receipts and the clinic's prescription spreadsheet. Condition labels are an approximation from medicine type and are not medical diagnoses.</footer>
+</div>
+<div class="tooltip" id="tip" role="tooltip"></div>
+
+<script>
+(async function () {
+  const D = await fetch('data.json').then(r => r.json());
+  const M = D.medicines;
+  const rs = v => 'Rs ' + Math.round(v).toLocaleString('en-LK');
+  const rsK = v => v >= 1e6 ? 'Rs ' + (v / 1e6).toFixed(2) + 'M' : v >= 100000 ? 'Rs ' + (v / 1000).toFixed(0) + 'k' : 'Rs ' + Math.round(v).toLocaleString('en-LK');
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const NON_DISEASE = new Set(['Vitamins & supplements']);
+
+  // theme toggle
+  const root = document.documentElement;
+  try { const t = localStorage.getItem('theme'); if (t) root.dataset.theme = t; } catch (e) {}
+  document.getElementById('themeBtn').onclick = () => {
+    const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme = dark ? 'light' : 'dark';
+    try { localStorage.setItem('theme', root.dataset.theme); } catch (e) {}
+  };
+
+  // tooltip
+  const tip = document.getElementById('tip');
+  function bindTip(el, html) {
+    const show = e => {
+      tip.innerHTML = html; tip.classList.add('on');
+      const r = el.getBoundingClientRect();
+      const x = e && e.clientX ? e.clientX : r.left + r.width / 2;
+      const y = e && e.clientY ? e.clientY : r.top;
+      tip.style.left = Math.min(x + 12, innerWidth - tip.offsetWidth - 8) + 'px';
+      tip.style.top = Math.max(8, y - tip.offsetHeight - 10) + 'px';
+    };
+    el.addEventListener('mousemove', show);
+    el.addEventListener('focus', () => show());
+    el.addEventListener('mouseleave', () => tip.classList.remove('on'));
+    el.addEventListener('blur', () => tip.classList.remove('on'));
+  }
+
+  function barList(id, rows, fmt, opts = {}) {
+    const el = document.getElementById(id);
+    el.innerHTML = '';
+    const max = Math.max(...rows.map(r => r.v), 1);
+    rows.forEach(r => {
+      const n = document.createElement('div');
+      n.className = 'name'; n.innerHTML = r.label; n.title = r.title || '';
+      const row = document.createElement('div');
+      row.className = 'bar-row'; row.tabIndex = 0;
+      row.innerHTML = `<div class="bar" style="width:calc((100% - 92px) * ${r.v / max})"></div><span class="bar-val">${fmt(r.v)}</span>`;
+      row.setAttribute('aria-label', `${r.title || r.label.replace(/<[^>]+>/g, '')}: ${fmt(r.v)}`);
+      if (r.tip) bindTip(row, r.tip);
+      el.append(n, row);
+    });
+    if (!rows.length) el.innerHTML = '<span class="note">No data</span>';
+  }
+
+  // data source + token-series filters
+  let ds = 'receipts';
+  try { const v = localStorage.getItem('ds'); if (D.datasets[v]) ds = v; } catch (e) {}
+  const qds = new URLSearchParams(location.search).get('ds');
+  if (D.datasets[qds]) ds = qds;
+  let sel = 'All';
+  const dsChips = document.getElementById('dsChips');
+  Object.entries(D.datasets).forEach(([k, v]) => {
+    const b = document.createElement('button');
+    b.className = 'chip'; b.type = 'button'; b.dataset.k = k;
+    b.textContent = `${v.label} (${rsK(v.patients.reduce((s, p) => s + p.net, 0))})`;
+    b.onclick = () => { ds = k; sel = 'All'; try { localStorage.setItem('ds', k); } catch (e) {} drawChips(); render(); };
+    dsChips.append(b);
+  });
+  const chips = document.getElementById('chips');
+  function drawChips() {
+    dsChips.querySelectorAll('.chip').forEach(x => x.setAttribute('aria-pressed', x.dataset.k === ds));
+    const colours = ['All', ...[...new Set(D.datasets[ds].patients.map(p => p.colour))].sort()];
+    chips.innerHTML = '';
+    colours.forEach(c => {
+      const b = document.createElement('button');
+      b.className = 'chip'; b.type = 'button'; b.textContent = c;
+      b.setAttribute('aria-pressed', c === sel);
+      b.onclick = () => { sel = c; drawChips(); render(); };
+      chips.append(b, ' ');
+    });
+  }
+  drawChips();
+
+  function aggregate(P) {
+    const byGen = {}, byProd = {}, byClass = {}, byCond = {};
+    const pats = P.map(p => {
+      const conds = new Set();
+      p.items.forEach(([i, q, pr, a]) => {
+        const m = M[i];
+        conds.add(m.condition);
+        const g = byGen[m.generic] ||= { generic: m.generic, cls: m.drug_class, cond: m.condition, spend: 0, qty: 0, pats: new Set(), brands: new Set() };
+        g.spend += a; g.qty += q; g.pats.add(p.tag); g.brands.add(m.brand);
+        const pd = byProd[i] ||= { i, spend: 0, qty: 0, pats: new Set(), prices: [] };
+        pd.spend += a; pd.qty += q; pd.pats.add(p.tag); pd.prices.push(pr);
+        const c = byClass[m.drug_class] ||= { spend: 0, pats: new Set() };
+        c.spend += a; c.pats.add(p.tag);
+        const cd = byCond[m.condition] ||= { spend: 0, pats: new Set() };
+        cd.spend += a; cd.pats.add(p.tag);
+      });
+      return { ...p, conds: [...conds] };
+    });
+    return { pats, byGen, byProd, byClass, byCond };
+  }
+
+  function render() {
+    const ALL = D.datasets[ds].patients;
+    const P = sel === 'All' ? ALL : ALL.filter(p => p.colour === sel);
+    const dsTotal = ALL.reduce((s, p) => s + p.net, 0);
+    const paid = D.meta.paid_total;
+    document.getElementById('dsNote').innerHTML = ds === 'receipts'
+      ? `Showing <b>every pharmacy receipt we hold</b>: the final PDF bills plus photographed receipts, each invoice counted once (${ALL.reduce((s, p) => s + p.invoices.length, 0)} invoices, ${ALL.length} patients). These cover ${(100 * dsTotal / paid).toFixed(0)}% of the ${rs(paid)} paid to the pharmacy.`
+      : `Showing the <b>clinic's prescription spreadsheet</b> (${ALL.length} patients, ${ALL.reduce((s, p) => s + p.items.length, 0)} dispensed lines). It covers ${(100 * dsTotal / paid).toFixed(1)}% of the ${rs(paid)} paid to the pharmacy. The remaining ${rs(paid - dsTotal)} is follow-up bills issued after the sheet was compiled.`;
+    const A = aggregate(P);
+    const total = P.reduce((s, p) => s + p.net, 0);
+    const items = P.reduce((s, p) => s + p.items.length, 0);
+    const nets = P.map(p => p.net).sort((a, b) => a - b);
+    const median = nets.length ? (nets.length % 2 ? nets[(nets.length - 1) / 2] : (nets[nets.length / 2 - 1] + nets[nets.length / 2]) / 2) : 0;
+    const condRank = Object.entries(A.byCond).filter(([k]) => !NON_DISEASE.has(k)).sort((a, b) => b[1].pats.size - a[1].pats.size);
+    const topCond = condRank[0];
+    const topPat = [...A.pats].sort((a, b) => b.net - a.net)[0];
+
+    document.getElementById('kpis').innerHTML = [
+      ['Medicine cost in this data', rs(total), `<div class="cov" title="Share of the amount paid"><div style="width:${Math.min(100, 100 * total / paid)}%"></div></div>${(100 * total / paid).toFixed(1)}% of ${rs(paid)} paid by donors`],
+      ['Patients', P.length, `of ${D.meta.prior_patients} seen at the camp`],
+      ['Average per patient', rs(total / (P.length || 1)), `median ${rs(median)}`],
+      ['Distinct medicines', Object.keys(A.byGen).length + ' generics', `${Object.keys(A.byProd).length} products · ${items} line items`],
+      ['Most common condition', topCond ? topCond[0] : '–', topCond ? `${topCond[1].pats.size} of ${P.length} patients` : ''],
+      ['Highest patient bill', topPat ? rs(topPat.net) : '–', topPat ? `token ${topPat.tag}` : ''],
+    ].map(([k, v, s]) => `<div class="kpi"><div class="k">${k}</div><div class="v${/^Rs|^\d+$/.test(String(v)) ? '' : ' t'}">${v}</div><div class="s">${s}</div></div>`).join('');
+
+    const condRows = Object.entries(A.byCond);
+    barList('condPatients', [...condRows].sort((a, b) => b[1].pats.size - a[1].pats.size).map(([k, v]) => ({
+      label: esc(k), v: v.pats.size,
+      tip: `<b>${esc(k)}</b><br>${v.pats.size} patients (${Math.round(100 * v.pats.size / P.length)}%)<br>${rs(v.spend)} spent`
+    })), v => v + ' pts');
+    barList('condSpend', [...condRows].sort((a, b) => b[1].spend - a[1].spend).map(([k, v]) => ({
+      label: esc(k), v: v.spend,
+      tip: `<b>${esc(k)}</b><br>${rs(v.spend)} (${(100 * v.spend / total).toFixed(1)}% of total)<br>${v.pats.size} patients`
+    })), rsK);
+
+    const gens = Object.values(A.byGen);
+    barList('medSpend', [...gens].sort((a, b) => b.spend - a.spend).slice(0, 15).map(g => ({
+      label: esc(g.generic), title: g.generic, v: g.spend,
+      tip: `<b>${esc(g.generic)}</b> · ${esc(g.cls)}<br>Brands: ${esc([...g.brands].join(', '))}<br>${rs(g.spend)} · ${g.pats.size} patients · ${g.qty.toLocaleString()} units`
+    })), rsK);
+    barList('medPatients', [...gens].sort((a, b) => b.pats.size - a.pats.size || b.spend - a.spend).slice(0, 15).map(g => ({
+      label: esc(g.generic), title: g.generic, v: g.pats.size,
+      tip: `<b>${esc(g.generic)}</b> · for ${esc(g.cond)}<br>${g.pats.size} patients · ${rs(g.spend)}`
+    })), v => v + ' pts');
+    barList('medUnit', Object.values(A.byProd).map(p => ({ ...p, unit: Math.max(...p.prices) })).sort((a, b) => b.unit - a.unit).slice(0, 12).map(p => ({
+      label: esc(M[p.i].brand), title: M[p.i].brand, v: p.unit,
+      tip: `<b>${esc(M[p.i].brand)}</b><br>${esc(M[p.i].generic)} · ${esc(M[p.i].condition)}<br>${p.qty.toLocaleString()} units to ${p.pats.size} patient(s) · ${rs(p.spend)} total`
+    })), v => 'Rs ' + v.toLocaleString('en-LK', { maximumFractionDigits: 2 }));
+    barList('classSpend', Object.entries(A.byClass).sort((a, b) => b[1].spend - a[1].spend).slice(0, 15).map(([k, v]) => ({
+      label: esc(k), v: v.spend, tip: `<b>${esc(k)}</b><br>${rs(v.spend)} · ${v.pats.size} patients`
+    })), rsK);
+
+    // histogram in 5k bands
+    const step = 5000, nb = Math.max(1, Math.ceil(Math.max(...nets, 1) / step));
+    const bins = Array(nb).fill(0).map(() => []);
+    A.pats.forEach(p => bins[Math.min(nb - 1, Math.floor(p.net / step))].push(p.tag));
+    const bmax = Math.max(...bins.map(b => b.length), 1);
+    const hist = document.getElementById('hist');
+    hist.innerHTML = '';
+    bins.forEach((b, k) => {
+      const col = document.createElement('div');
+      col.className = 'col'; col.tabIndex = 0;
+      col.setAttribute('aria-label', `Rs ${k * 5}k to ${(k + 1) * 5}k: ${b.length} patients`);
+      col.innerHTML = `${b.length ? `<span class="c">${b.length}</span>` : ''}<div class="b" style="height:${100 * b.length / bmax}%"></div>`;
+      bindTip(col, `<b>Rs ${k * 5}k – ${(k + 1) * 5}k</b><br>${b.length} patients${b.length ? '<br>' + b.join(', ') : ''}`);
+      hist.append(col);
+    });
+    document.getElementById('histX').innerHTML = bins.map((_, k) => `<span>${k % 2 === 0 || nb <= 8 ? k * 5 : ''}</span>`).join('');
+
+    barList('topPatients', [...A.pats].sort((a, b) => b.net - a.net).slice(0, 10).map(p => ({
+      label: `${esc(p.tag)}`, v: p.net,
+      tip: `<b>${esc(p.tag)}</b>${p.invoices.length ? ' · invoice ' + p.invoices.map(i => '#' + i.no).join(', ') : ''}<br>${p.items.length} items<br>${esc(p.conds.join(', '))}`
+    })), rs);
+
+    const ncond = {};
+    A.pats.forEach(p => { const n = p.conds.filter(c => !NON_DISEASE.has(c)).length; (ncond[n] ||= []).push(p.tag); });
+    barList('multi', Object.keys(ncond).map(Number).sort((a, b) => a - b).map(n => ({
+      label: n === 1 ? '1 condition' : `${n} conditions`, v: ncond[n].length,
+      tip: `<b>${n} condition(s)</b> (excluding supplements)<br>${ncond[n].length} patients`
+    })), v => v + ' pts');
+
+    const pc = {};
+    A.pats.forEach(p => {
+      const c = p.conds.filter(x => !NON_DISEASE.has(x)).sort();
+      for (let i = 0; i < c.length; i++) for (let j = i + 1; j < c.length; j++) { const k = c[i] + ' + ' + c[j]; pc[k] = (pc[k] || 0) + 1; }
+    });
+    barList('pairs', Object.entries(pc).sort((a, b) => b[1] - a[1]).slice(0, 10).map(([k, v]) => ({
+      label: esc(k), title: k, v, tip: `<b>${esc(k)}</b><br>${v} patients`
+    })), v => v + ' pts');
+
+    renderMedTable(gens, total);
+    renderPatTable(A.pats);
+  }
+
+  // sortable table helper
+  function table(id, cols, rows, detail) {
+    const t = document.getElementById(id);
+    let key = t.dataset.key || cols.find(c => c.def)?.k, dir = t.dataset.dir || 'desc';
+    t.querySelector('thead').innerHTML = '<tr>' + cols.map(c => `<th class="${c.n ? 'n' : ''}" data-k="${c.k}" ${c.k === key ? `aria-sort="${dir === 'asc' ? 'ascending' : 'descending'}"` : ''} tabindex="0">${c.h}</th>`).join('') + '</tr>';
+    const sorted = [...rows].sort((a, b) => { const x = a[key], y = b[key]; const r = typeof x === 'number' ? x - y : String(x).localeCompare(String(y)); return dir === 'asc' ? r : -r; });
+    t.querySelector('tbody').innerHTML = sorted.map(r => `<tr data-id="${esc(r._id)}">` + cols.map(c => `<td class="${c.n ? 'n' : ''}">${c.f ? c.f(r) : esc(r[c.k])}</td>`).join('') + '</tr>').join('');
+    t.querySelectorAll('th').forEach(th => {
+      const go = () => { const k = th.dataset.k; t.dataset.dir = (t.dataset.key === k || (!t.dataset.key && k === key)) && dir === 'desc' ? 'asc' : 'desc'; t.dataset.key = k; t._rerender(); };
+      th.onclick = go; th.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } };
+    });
+    if (detail) t.querySelectorAll('.linkish').forEach(b => b.onclick = () => {
+      const tr = b.closest('tr'); const nx = tr.nextElementSibling;
+      if (nx && nx.classList.contains('detail')) { nx.remove(); b.setAttribute('aria-expanded', 'false'); return; }
+      tr.insertAdjacentHTML('afterend', `<tr class="detail"><td colspan="${cols.length}">${detail(rows.find(r => r._id === tr.dataset.id))}</td></tr>`);
+      b.setAttribute('aria-expanded', 'true');
+    });
+  }
+
+  let medRows = [], medTotal = 0;
+  function renderMedTable(gens, total) { medRows = gens; medTotal = total; drawMed(); }
+  function drawMed() {
+    const q = document.getElementById('medSearch').value.trim().toLowerCase();
+    const rows = medRows.map(g => ({ _id: g.generic, generic: g.generic, brands: [...g.brands].join(', '), cls: g.cls, cond: g.cond, pats: g.pats.size, qty: g.qty, spend: g.spend, share: 100 * g.spend / medTotal }))
+      .filter(r => !q || [r.generic, r.brands, r.cls, r.cond].join(' ').toLowerCase().includes(q));
+    document.getElementById('medCount').textContent = `${rows.length} generics`;
+    const t = document.getElementById('medTable'); t._rerender = drawMed;
+    table('medTable', [
+      { k: 'generic', h: 'Generic' },
+      { k: 'brands', h: 'Brand(s) dispensed', f: r => `<span class="muted">${esc(r.brands)}</span>` },
+      { k: 'cls', h: 'Class' },
+      { k: 'cond', h: 'Used for' },
+      { k: 'pats', h: 'Patients', n: 1 },
+      { k: 'qty', h: 'Units', n: 1, f: r => r.qty.toLocaleString() },
+      { k: 'spend', h: 'Spend', n: 1, def: 1, f: r => rs(r.spend) },
+      { k: 'share', h: '% of total', n: 1, f: r => r.share.toFixed(1) + '%' },
+    ], rows);
+  }
+
+  let patRows = [];
+  function renderPatTable(pats) { patRows = pats; drawPat(); }
+  function drawPat() {
+    const q = document.getElementById('patSearch').value.trim().toLowerCase();
+    const rows = patRows.map(p => ({ _id: p.tag, tag: p.tag, invoice: p.invoices.map(i => i.no).join(', '), ninv: p.invoices.length, n: p.items.length, conds: p.conds, condStr: p.conds.join(', '), net: p.net, p,
+      search: [p.tag, p.conds.join(' '), ...p.items.map(([i]) => M[i].brand + ' ' + M[i].generic)].join(' ').toLowerCase() }))
+      .filter(r => !q || r.search.includes(q));
+    document.getElementById('patCount').textContent = `${rows.length} patients`;
+    const t = document.getElementById('patTable'); t._rerender = drawPat;
+    table('patTable', [
+      { k: 'tag', h: 'Token', f: r => `<button class="linkish" type="button" aria-expanded="false">${esc(r.tag)}</button>` },
+      ...(ds === 'receipts' ? [{ k: 'invoice', h: 'Invoice(s)', f: r => `<span class="muted">${r.p.invoices.map(i => '#' + i.no + (i.src !== 'pdf' ? ' <span class="pill">' + esc(i.src) + '</span>' : '')).join(' ')}</span>` }] : []),
+      { k: 'n', h: 'Items', n: 1 },
+      { k: 'condStr', h: 'Inferred conditions', f: r => r.conds.map(c => `<span class="pill">${esc(c)}</span>`).join('') },
+      { k: 'net', h: 'Total', n: 1, def: 1, f: r => rs(r.net) },
+    ], rows, r => '<table><thead><tr><th>Medicine</th><th>Generic</th><th>Used for</th><th class="n">Qty</th><th class="n">Unit price</th><th class="n">Amount</th></tr></thead><tbody>' +
+      r.p.items.map(([i, q, pr, a]) => `<tr><td>${esc(M[i].brand)}</td><td>${esc(M[i].generic)}</td><td>${esc(M[i].condition)}</td><td class="n">${q}</td><td class="n">${pr.toFixed(2)}</td><td class="n">${a.toLocaleString('en-LK', { minimumFractionDigits: 2 })}</td></tr>`).join('') +
+      '</tbody></table>');
+  }
+  document.getElementById('medSearch').oninput = drawMed;
+  document.getElementById('patSearch').oninput = drawPat;
+
+  document.getElementById('callout').innerHTML = `<strong>Brand vs. generic.</strong> An earlier review of the full camp bill (all ${D.meta.prior_patients} patients, ${rs(D.meta.prior_total)}) compared branded medicines against State Pharmaceuticals Corporation (SPC) generic prices. For the 46 items with a clear SPC equivalent, choosing the SPC generic would have saved about <strong>Rs 740,000 — roughly 40% of the whole bill</strong>. The biggest opportunities were Vitamin D3, sitagliptin (Inosita), cilnidipine (Cilacar) and gliclazide MR (Diamicron MR). These are among the top-spend medicines above.`;
+
+  function drawAbout() {
+    const tot = k => D.datasets[k].patients.reduce((s, p) => s + p.net, 0);
+    const r = tot('receipts'), x = tot('excel'), paid = D.meta.paid_total;
+    document.getElementById('about').innerHTML = `
+    <p style="margin-top:0">Use <b>Data source</b> at the top to switch between the two records of the camp. All amounts are in Sri Lankan rupees.</p>
+    <table><thead><tr><th>Source</th><th class="n">Patients</th><th class="n">Amount</th><th class="n">Share of amount paid</th></tr></thead><tbody>
+      <tr><td><b>Receipts</b>: PDF bills plus receipt photos, each invoice counted once</td><td class="n">${D.datasets.receipts.patients.length}</td><td class="n">${rs(r)}</td><td class="n">${(100 * r / paid).toFixed(1)}%</td></tr>
+      <tr><td><b>Excel sheet</b>: the clinic's prescription spreadsheet</td><td class="n">${D.datasets.excel.patients.length}</td><td class="n">${rs(x)}</td><td class="n">${(100 * x / paid).toFixed(1)}%</td></tr>
+      <tr><td><b>Amount paid to the pharmacy</b></td><td class="n"></td><td class="n">${rs(paid)}</td><td class="n">100%</td></tr>
+    </tbody></table>
+    <p>The <b>Excel sheet</b> is the most complete record of what was prescribed on the day. The amount paid is ${rs(paid - x)} more than the sheet, because follow-up bills (items supplied later, many dated 13 August) were issued after it was compiled. The <b>Receipts</b> view is limited to bills we physically hold. Receipts for about half the patients are still missing, so its totals are lower.</p>
+    <details class="method"><summary>How the figures were produced</summary><ul>
+      <li>Every PDF bill was read automatically: medicine, quantity, unit price, line amount, invoice number and totals. Each bill's line items add up exactly to its printed total.</li>
+      <li>Receipt photos (printed and handwritten) were transcribed and their arithmetic checked. 19 invoices appear both as a photo and as a PDF, and all 19 match exactly on every line, so each is counted only once.</li>
+      <li>A few receipts carry no token, so they appear as "Untagged #invoice". One handwritten slip is tagged "Black-65", which is not a real token (probably Green-65), and is shown as written.</li>
+      <li>Each medicine was matched by hand to its generic name, drug class and the condition it is normally used for. Supplements (vitamin D, B-complex, calcium, fish oil) are shown as their own group and are not counted as a disease.</li>
+      <li>Patients are anonymous. Token colours (Green, Red, Black, Blue) are queue series only and carry no medical meaning.</li>
+    </ul></details>`;
+  }
+  drawAbout();
+
+  render();
+})();
+</script>
+</body>
+</html>

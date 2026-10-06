@@ -1,0 +1,2731 @@
+[
+ {
+  "photo": "p01.jpeg",
+  "format": "thermal",
+  "invoice": "10",
+  "date": "08-Aug-26",
+  "time": "10:20:51 AM",
+  "tag_raw": "G 5",
+  "tag": "Green-05",
+  "items": [
+   {
+    "name": "OLEANZ 5MG TABLET",
+    "code": "EM520",
+    "qty": 130,
+    "price": 19.87,
+    "amount": 2583.1
+   },
+   {
+    "name": "ROSTIN 10MG TABLET",
+    "code": "MH059",
+    "qty": 65,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "DEPLUS 1000 ** TABLET",
+    "code": "AP299",
+    "qty": 65,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "NEUROBION TABLET",
+    "code": "EM028",
+    "qty": 65,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "MELO 3 TABLET",
+    "code": "IW022",
+    "qty": 65,
+    "price": 25.0,
+    "amount": 1625.0
+   },
+   {
+    "name": "VERMOX 100MG 6-S",
+    "code": "PT025",
+    "qty": 1,
+    "price": 463.0,
+    "amount": 463.0
+   }
+  ],
+  "gross": 12958.6,
+  "discount": 0,
+  "net": 12958.6,
+  "item_count": 6,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Cashier stamp 10:24:02 AM. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt1.jpeg"
+ },
+ {
+  "photo": "p01.jpeg",
+  "format": "thermal",
+  "invoice": "11",
+  "date": "08-Aug-26",
+  "time": "10:21:22 AM",
+  "tag_raw": "CASH + handwritten 'h-6'",
+  "tag": null,
+  "items": [
+   {
+    "name": "ATORLIP 10MG TABLET",
+    "code": "CH042",
+    "qty": 65,
+    "price": 10.5,
+    "amount": 682.5
+   }
+  ],
+  "gross": 682.5,
+  "discount": 0,
+  "net": 682.5,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "medium",
+  "notes": "Printed customer is 'CASH'; someone wrote over it in pen giving roughly 'CASh-6'. The colour letter can't be made out (it might just be 'Cash-6'), so tag is null. Number 6 is clear. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt1.jpeg"
+ },
+ {
+  "photo": "p01.jpeg",
+  "format": "thermal",
+  "invoice": "15",
+  "date": "08-Aug-26",
+  "time": "10:34:46 AM",
+  "tag_raw": "G 7",
+  "tag": "Green-07",
+  "items": [
+   {
+    "name": "HEXILON 4MG TABLET",
+    "code": "HP491",
+    "qty": 30,
+    "price": 23.52,
+    "amount": 705.6
+   },
+   {
+    "name": "FORACORT 400MCG INHALER 120DOSES",
+    "code": "CH180",
+    "qty": 1,
+    "price": 2388.0,
+    "amount": 2388.0
+   },
+   {
+    "name": "CEFTIL 500MG TABLET",
+    "code": "DB096",
+    "qty": 14,
+    "price": 129.0,
+    "amount": 1806.0
+   },
+   {
+    "name": "PANTODAC 20MG TABLET",
+    "code": "SW206",
+    "qty": 14,
+    "price": 33.75,
+    "amount": 472.5
+   },
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AP297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "NEUROBION TABLET",
+    "code": "EM028",
+    "qty": 65,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "10% UREA IN AQUEOUS CREAM 100G",
+    "code": "BI041",
+    "qty": 1,
+    "price": 360.0,
+    "amount": 360.0
+   },
+   {
+    "name": "DUSPATALIN RETARD 200MG TABLET",
+    "code": "CI105",
+    "qty": 130,
+    "price": 228.46,
+    "amount": 29699.8
+   },
+   {
+    "name": "LIBRAX 5/2.5MG TABLET",
+    "code": "AB106",
+    "qty": 65,
+    "price": 51.2,
+    "amount": 3328.0
+   },
+   {
+    "name": "GABA 100MG TABLET",
+    "code": "EA109",
+    "qty": 65,
+    "price": 33.27,
+    "amount": 2162.55
+   },
+   {
+    "name": "TIZOREL 2MG TABLET",
+    "code": "EM106",
+    "qty": 65,
+    "price": 59.96,
+    "amount": 3897.4
+   }
+  ],
+  "gross": 51644.85,
+  "discount": 0,
+  "net": 51644.85,
+  "item_count": null,
+  "partial": true,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Bottom cut off below CASH BALANCE, so the item-count line isn't visible (11 items listed). Arithmetic OK.",
+  "source_photo": "Receipts/Receipt1.jpeg"
+ },
+ {
+  "photo": "p02.jpeg",
+  "format": "thermal",
+  "invoice": "9",
+  "date": "08-Aug-26",
+  "time": "10:19:07 AM",
+  "tag_raw": "R 6",
+  "tag": "Red-06",
+  "items": [
+   {
+    "name": "ZAART 50MG TABLET",
+    "code": "CH053",
+    "qty": 65,
+    "price": 20.43,
+    "amount": 1327.95
+   },
+   {
+    "name": "GLYCOMET SR 500MG TABLET",
+    "code": "HP382",
+    "qty": 130,
+    "price": 12.6,
+    "amount": 1638.0
+   },
+   {
+    "name": "ATORLIP 10MG TABLET",
+    "code": "CH042",
+    "qty": 65,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "KALZANA 500MG TABLET",
+    "code": "HP665",
+    "qty": 65,
+    "price": 25.0,
+    "amount": 1625.0
+   },
+   {
+    "name": "GABA 100MG TABLET",
+    "code": "EA109",
+    "qty": 65,
+    "price": 33.27,
+    "amount": 2162.55
+   },
+   {
+    "name": "BACLON 5MG TABLET",
+    "code": "ET015",
+    "qty": 130,
+    "price": 24.57,
+    "amount": 3194.1
+   },
+   {
+    "name": "ZYCEL 200MG CAPSULE",
+    "code": "SW225",
+    "qty": 30,
+    "price": 52.88,
+    "amount": 1586.4
+   },
+   {
+    "name": "FAMOTIDINE 20MG [SPMC] TABLET",
+    "code": "SM048",
+    "qty": 30,
+    "price": 2.0,
+    "amount": 60.0
+   },
+   {
+    "name": "OMEZ 20MG CAPSULE",
+    "code": "EM630",
+    "qty": 30,
+    "price": 8.94,
+    "amount": 268.2
+   },
+   {
+    "name": "AMILEB 25MG TABLET",
+    "code": "NW149",
+    "qty": 65,
+    "price": 4.67,
+    "amount": 303.55
+   }
+  ],
+  "gross": 12848.25,
+  "discount": 0,
+  "net": 12848.25,
+  "item_count": null,
+  "partial": true,
+  "confidence": "high",
+  "notes": "BACLON price prints as '24.5' with the last digit unclear; 24.57 is worked out from 3194.10/130. Bottom cut off after CASH TEN_RD, so the item count isn't visible (10 items listed). No pen ticks. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt2.jpeg"
+ },
+ {
+  "photo": "p02.jpeg",
+  "format": "thermal",
+  "invoice": "18",
+  "date": "08-Aug-26",
+  "time": "10:40:54 AM",
+  "tag_raw": "R 9",
+  "tag": "Red-09",
+  "items": [
+   {
+    "name": "AUGMENTIN 625MG TABLET",
+    "code": "GL094",
+    "qty": 21,
+    "price": 119.16,
+    "amount": 2502.36
+   },
+   {
+    "name": "SEROFLO 250 INHALER 120DOSES",
+    "code": "CH035",
+    "qty": 1,
+    "price": 1831.0,
+    "amount": 1831.0
+   },
+   {
+    "name": "ASTHALIN 100MCG INHALER 200DOSES",
+    "code": "CH001",
+    "qty": 1,
+    "price": 613.0,
+    "amount": 613.0
+   },
+   {
+    "name": "AERO SPACER PLUS (STATIC FREE) NOS",
+    "code": "EM479",
+    "qty": 1,
+    "price": 2101.12,
+    "amount": 2101.12
+   },
+   {
+    "name": "AQUEOUS CREAM 100G",
+    "code": "BI005",
+    "qty": 1,
+    "price": 330.0,
+    "amount": 330.0
+   },
+   {
+    "name": "EMULSIFYING OINTMENT 100G",
+    "code": "BI006",
+    "qty": 1,
+    "price": 380.0,
+    "amount": 380.0
+   },
+   {
+    "name": "DEPLUS 1000 ** TABLET",
+    "code": "AP299",
+    "qty": 65,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ATORLIP 10MG TABLET",
+    "code": "CH042",
+    "qty": 65,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "ZIN 10MG TABLET",
+    "code": "PA077",
+    "qty": 65,
+    "price": 3.4,
+    "amount": 221.0
+   }
+  ],
+  "gross": 11228.48,
+  "discount": 0,
+  "net": 11228.48,
+  "item_count": null,
+  "partial": true,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Bottom cut off after CASH TEN_RD, so the item count isn't visible (9 items listed). Arithmetic OK.",
+  "source_photo": "Receipts/Receipt2.jpeg"
+ },
+ {
+  "photo": "p02.jpeg",
+  "format": "thermal",
+  "invoice": "12",
+  "date": "08-Aug-26",
+  "time": "10:28:09 AM",
+  "tag_raw": "R 13",
+  "tag": "Red-13",
+  "items": [
+   {
+    "name": "FORACORT 400MCG INHALER 120DOSES",
+    "code": "CH180",
+    "qty": 1,
+    "price": 2388.0,
+    "amount": 2388.0
+   },
+   {
+    "name": "PANTODAC 20MG TABLET",
+    "code": "SW206",
+    "qty": 30,
+    "price": 33.75,
+    "amount": 1012.5
+   },
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AP297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "FENADINE 180MG TABLET",
+    "code": "EM127",
+    "qty": 30,
+    "price": 45.82,
+    "amount": 1374.6
+   },
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] TABLET",
+    "code": "MJ057",
+    "qty": 65,
+    "price": 1.7,
+    "amount": 110.5
+   },
+   {
+    "name": "MAXGALIN 50MG CAPSULE",
+    "code": "EM501",
+    "qty": 21,
+    "price": 23.17,
+    "amount": 486.57
+   },
+   {
+    "name": "AERO SPACER PLUS (STATIC FREE) NOS",
+    "code": "EM479",
+    "qty": 1,
+    "price": 2101.12,
+    "amount": 2101.12
+   },
+   {
+    "name": "ASTHALIN 100MCG INHALER 200DOSES",
+    "code": "CH001",
+    "qty": 1,
+    "price": 613.0,
+    "amount": 613.0
+   },
+   {
+    "name": "WINTOGENO CREAM 50G",
+    "code": "EM573",
+    "qty": 1,
+    "price": 575.0,
+    "amount": 575.0
+   }
+  ],
+  "gross": 11716.29,
+  "discount": 0,
+  "net": 11716.29,
+  "item_count": null,
+  "partial": true,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Bottom cut off after CASH TEN_RD, so the item count isn't visible (9 items listed). Arithmetic OK.",
+  "source_photo": "Receipts/Receipt2.jpeg"
+ },
+ {
+  "photo": "p03.jpeg",
+  "format": "thermal",
+  "invoice": "17",
+  "date": "08-Aug-26",
+  "time": "10:36:17 AM",
+  "tag_raw": "R 21",
+  "tag": "Red-21",
+  "items": [
+   {
+    "name": "[D]EPLUS 2000 ** TABLET",
+    "code": "[A]P297",
+    "qty": 33,
+    "price": 47.0,
+    "amount": 1551.0
+   },
+   {
+    "name": "[A]SCORBIC ACID 100MG [MSJ] TABLET",
+    "code": "[M]J057",
+    "qty": 65,
+    "price": 1.7,
+    "amount": 110.5
+   },
+   {
+    "name": "[?]OFENAC GEL 20G",
+    "code": "[?]H063",
+    "qty": 2,
+    "price": 189.0,
+    "amount": 378.0
+   }
+  ],
+  "gross": 2039.5,
+  "discount": 0,
+  "net": 2039.5,
+  "item_count": null,
+  "partial": true,
+  "confidence": "medium",
+  "notes": "Items ticked in pen. Left edge cut off: the first letters of item names and codes are missing (filled in [] where obvious). The third item is '...OFENAC GEL 20G' (perhaps a diclofenac gel); its name and code prefix aren't visible. The item-count digit is cut off. Cashier stamp 10:42:37 AM. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt3.jpeg"
+ },
+ {
+  "photo": "p03.jpeg",
+  "format": "thermal",
+  "invoice": "28",
+  "date": "08-Aug-26",
+  "time": "11:00:39 AM",
+  "tag_raw": "R 24",
+  "tag": "Red-24",
+  "items": [
+   {
+    "name": "INOSITA 100MG TABLET",
+    "code": "CI428",
+    "qty": 65,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "RECLIDE 80MG TABLET",
+    "code": "EM637",
+    "qty": 260,
+    "price": 19.85,
+    "amount": 5161.0
+   },
+   {
+    "name": "EMPA 10MG TABLET",
+    "code": "IH003",
+    "qty": 130,
+    "price": 69.0,
+    "amount": 8970.0
+   },
+   {
+    "name": "T4 50MCG TABLET",
+    "code": "EM455",
+    "qty": 35,
+    "price": 12.1,
+    "amount": 423.5
+   },
+   {
+    "name": "SEROFLO 250 INHALER 120DOSES",
+    "code": "CH035",
+    "qty": 1,
+    "price": 1831.0,
+    "amount": 1831.0
+   },
+   {
+    "name": "GLYCOMET SR 500MG TABLET",
+    "code": "HP382",
+    "qty": 260,
+    "price": 12.6,
+    "amount": 3276.0
+   },
+   {
+    "name": "FENADINE 180MG TABLET",
+    "code": "EM127",
+    "qty": 7,
+    "price": 45.82,
+    "amount": 320.74
+   }
+  ],
+  "gross": 24857.24,
+  "discount": 0,
+  "net": 24857.24,
+  "item_count": 7,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Store name header cut off at the top, but all transaction data is visible. Cashier stamp 11:03:58 AM. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt3.jpeg"
+ },
+ {
+  "photo": "p03.jpeg",
+  "format": "thermal",
+  "invoice": "21",
+  "date": "08-Aug-26",
+  "time": "10:45:50 AM",
+  "tag_raw": "R 29",
+  "tag": "Red-29",
+  "items": [
+   {
+    "name": "T4 50MCG TABLET",
+    "code": "EM455",
+    "qty": 150,
+    "price": 12.1,
+    "amount": 1815.0
+   },
+   {
+    "name": "ATORLIP 10MG TABLET",
+    "code": "CH042",
+    "qty": 65,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "DEPLUS 1000 ** TABLET",
+    "code": "AP299",
+    "qty": 65,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ENDERM CREAM 15G",
+    "code": "NW011",
+    "qty": 1,
+    "price": 410.0,
+    "amount": 410.0
+   }
+  ],
+  "gross": 5475.0,
+  "discount": 0,
+  "net": 5475.0,
+  "item_count": 4,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Cashier stamp 10:50:02 AM. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt3.jpeg"
+ },
+ {
+  "photo": "p04.jpeg",
+  "format": "thermal",
+  "invoice": "29",
+  "date": "08-Aug-26",
+  "time": "11:02:55 AM",
+  "tag_raw": "CASH + handwritten 'R-45'",
+  "tag": "Red-45",
+  "items": [
+   {
+    "name": "RECLIDE 80MG TABLET",
+    "code": "EM637",
+    "qty": 260,
+    "price": 19.85,
+    "amount": 5161.0
+   },
+   {
+    "name": "GLYCOMET 500MG TABLET",
+    "code": "HP204",
+    "qty": 260,
+    "price": 7.44,
+    "amount": 1934.4
+   },
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) TABLET",
+    "code": "SP769",
+    "qty": 65,
+    "price": 8.6,
+    "amount": 559.0
+   },
+   {
+    "name": "ATORLIP 20MG TABLET",
+    "code": "CH043",
+    "qty": 65,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "ASTHALIN 100MCG INHALER 200DOSES",
+    "code": "CH001",
+    "qty": 1,
+    "price": 613.0,
+    "amount": 613.0
+   },
+   {
+    "name": "SEROFLO 250 INHALER 120DOSES",
+    "code": "CH035",
+    "qty": 1,
+    "price": 1831.0,
+    "amount": 1831.0
+   },
+   {
+    "name": "OMEZ 20MG CAPSULE",
+    "code": "EM630",
+    "qty": 130,
+    "price": 8.94,
+    "amount": 1162.2
+   }
+  ],
+  "gross": 12416.3,
+  "discount": 0,
+  "net": 12416.3,
+  "item_count": null,
+  "partial": true,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Printed customer is 'CASH'; 'R-45' is handwritten over it. Bottom cut off after CASH TEN_RD, so the item count isn't visible (7 items listed). Possible double charge: SITAGLIPTIN 50MG x65 (559.00) is also billed on invoice 31 for R 45. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt4.jpeg"
+ },
+ {
+  "photo": "p04.jpeg",
+  "format": "thermal",
+  "invoice": "31",
+  "date": "08-Aug-26",
+  "time": "11:07:25 AM",
+  "tag_raw": "R 45",
+  "tag": "Red-45",
+  "items": [
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) TABLET",
+    "code": "SP769",
+    "qty": 65,
+    "price": 8.6,
+    "amount": 559.0
+   }
+  ],
+  "gross": 559.0,
+  "discount": 0,
+  "net": 559.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Possible double charge: the same item (SP769 x65, 559.00) is already on invoice 29 for R-45. Cashier stamp 11:07:31 AM. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt4.jpeg"
+ },
+ {
+  "photo": "p05.jpeg",
+  "format": "thermal",
+  "invoice": "30",
+  "date": "08-Aug-26",
+  "time": "11:07:10 AM",
+  "tag_raw": "R 41",
+  "tag": "Red-41",
+  "items": [
+   {
+    "name": "GLUCAR 50MG TABLET",
+    "code": "HP237",
+    "qty": 65,
+    "price": 43.8,
+    "amount": 2847.0
+   },
+   {
+    "name": "EMPA 25MG TABLET",
+    "code": "IH026",
+    "qty": 65,
+    "price": 135.0,
+    "amount": 8775.0
+   },
+   {
+    "name": "INOSITA 100MG TABLET",
+    "code": "CI428",
+    "qty": 65,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "GLYCOMET 850MG TABLET",
+    "code": "HP205",
+    "qty": 195,
+    "price": 14.7,
+    "amount": 2866.5
+   },
+   {
+    "name": "DEPLUS 1000 ** TABLET",
+    "code": "AP299",
+    "qty": 65,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ROSTIN 10MG TABLET",
+    "code": "MH059",
+    "qty": 65,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "NEUROBION TABLET",
+    "code": "EM028",
+    "qty": 65,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "ZAART 25MG TABLET",
+    "code": "CH052",
+    "qty": 65,
+    "price": 12.48,
+    "amount": 811.2
+   },
+   {
+    "name": "MAXGALIN 75MG CAPSULE",
+    "code": "EM502",
+    "qty": 65,
+    "price": 29.33,
+    "amount": 1906.45
+   },
+   {
+    "name": "EMULSIFYING OINTMENT 100G",
+    "code": "BI006",
+    "qty": 1,
+    "price": 380.0,
+    "amount": 380.0
+   },
+   {
+    "name": "BETALEB CREAM 15G",
+    "code": "NW192",
+    "qty": 1,
+    "price": 290.0,
+    "amount": 290.0
+   },
+   {
+    "name": "DIAMICRON 80MG TABLET",
+    "code": "HP288",
+    "qty": 130,
+    "price": 22.4,
+    "amount": 2912.0
+   }
+  ],
+  "gross": 33950.65,
+  "discount": 0,
+  "net": 33950.65,
+  "item_count": null,
+  "partial": true,
+  "confidence": "high",
+  "notes": "Items ticked in pen. Header cut off at top. Bottom cut off at NET TOTAL (33,950.65 just visible), so the item count isn't visible (12 items listed). Possible double charge: ZAART 25MG x65 (811.20) is also billed on invoice 36 for R 41. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt5.jpeg"
+ },
+ {
+  "photo": "p05.jpeg",
+  "format": "thermal",
+  "invoice": "36",
+  "date": "08-Aug-26",
+  "time": "11:23:29 AM",
+  "tag_raw": "R 41",
+  "tag": "Red-41",
+  "items": [
+   {
+    "name": "ZAART 25MG TABLET",
+    "code": "CH052",
+    "qty": 65,
+    "price": 12.48,
+    "amount": 811.2
+   }
+  ],
+  "gross": 811.2,
+  "discount": 0,
+  "net": 811.2,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Possible double charge: the same item (CH052 x65, 811.20) is already on invoice 30 for R 41. Cashier stamp 11:23:35 AM. Arithmetic OK.",
+  "source_photo": "Receipts/Receipt5.jpeg"
+ },
+ {
+  "photo": "p06.jpeg",
+  "format": "handwritten",
+  "invoice": "10043",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-04",
+  "tag": "Green-04",
+  "items": [
+   {
+    "name": "Oil of derme",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 1285.0
+   }
+  ],
+  "gross": 1285.0,
+  "discount": 0,
+  "net": 1285.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Total circled as 1285/=. Item name as written.",
+  "source_photo": "PostedReceipts/PostedReceipt2.jpeg"
+ },
+ {
+  "photo": "p06.jpeg",
+  "format": "handwritten",
+  "invoice": "10041",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": null,
+  "tag": null,
+  "items": [
+   {
+    "name": "Benzac AC 2.5% gel",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 691.0
+   }
+  ],
+  "gross": 691.0,
+  "discount": 0,
+  "net": 691.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "A personal name is written on the Mr/Mrs/Miss line; it is left out on purpose. No colour tag written above this invoice. Total circled as 691/=.",
+  "source_photo": "PostedReceipts/PostedReceipt2.jpeg"
+ },
+ {
+  "photo": "p06.jpeg",
+  "format": "handwritten",
+  "invoice": "10044",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-(10)",
+  "tag": "Green-10",
+  "items": [
+   {
+    "name": "Panadene",
+    "code": null,
+    "qty": 36,
+    "price": null,
+    "amount": 594.0
+   }
+  ],
+  "gross": 594.0,
+  "discount": 0,
+  "net": 594.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Total circled as 594/=.",
+  "source_photo": "PostedReceipts/PostedReceipt2.jpeg"
+ },
+ {
+  "photo": "p06.jpeg",
+  "format": "handwritten",
+  "invoice": "10042",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "Red 24",
+  "tag": "Red-24",
+  "items": [
+   {
+    "name": "Aero spacer plus",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 2101.12
+   }
+  ],
+  "gross": 2101.12,
+  "discount": 0,
+  "net": 2101.12,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "A personal name is written on the Mr/Mrs/Miss line; it is left out on purpose. The total's cents are partly cut off at the right edge ('2101 | 1...'); the item line and the circled 2101/12 confirm 2101.12. Red-24 also has thermal invoice 28 (photo p03), which has no spacer.",
+  "source_photo": "PostedReceipts/PostedReceipt2.jpeg"
+ },
+ {
+  "photo": "p07.jpeg",
+  "format": "handwritten",
+  "invoice": "10051",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-(47)",
+  "tag": "Green-47",
+  "items": [
+   {
+    "name": "Pantodac 40mg",
+    "code": null,
+    "qty": 90,
+    "price": null,
+    "amount": 5003.1
+   },
+   {
+    "name": "Domperidone 10mg",
+    "code": null,
+    "qty": 30,
+    "price": null,
+    "amount": 104.1
+   }
+  ],
+  "gross": 5107.2,
+  "discount": 0,
+  "net": 5107.2,
+  "item_count": 2,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 5107/20. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt3.jpeg"
+ },
+ {
+  "photo": "p07.jpeg",
+  "format": "handwritten",
+  "invoice": "10049",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "R-(36)",
+  "tag": "Red-36",
+  "items": [
+   {
+    "name": "Seroflo 250 mcg HDI",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 1831.0
+   },
+   {
+    "name": "Aero Spacer Plus",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 2101.12
+   },
+   {
+    "name": "Kalzana 500mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1625.0
+   }
+  ],
+  "gross": 5557.12,
+  "discount": 0,
+  "net": 5557.12,
+  "item_count": 3,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 5557/12. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt3.jpeg"
+ },
+ {
+  "photo": "p07.jpeg",
+  "format": "handwritten",
+  "invoice": "10052",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-(53)",
+  "tag": "Green-53",
+  "items": [
+   {
+    "name": "Rostin 10mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1950.0
+   },
+   {
+    "name": "Ecosprin 75mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 384.15
+   },
+   {
+    "name": "Cilacar 5mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 3108.95
+   },
+   {
+    "name": "Omega-3 1000mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 4485.0
+   },
+   {
+    "name": "Pantodac 40mg (written 'Pantoclac')",
+    "code": null,
+    "qty": 50,
+    "price": null,
+    "amount": 2779.5
+   },
+   {
+    "name": "Damasules (name hard to read)",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1625.0
+   }
+  ],
+  "gross": 14332.6,
+  "discount": 0,
+  "net": 14332.6,
+  "item_count": 6,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 14332/60. Sum matches. The last item name is hard to read; it looks like 'Damasules'.",
+  "source_photo": "PostedReceipts/PostedReceipt3.jpeg"
+ },
+ {
+  "photo": "p07.jpeg",
+  "format": "handwritten",
+  "invoice": "10050",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "(G?)-(31)",
+  "tag": "Green-31",
+  "items": [
+   {
+    "name": "Kalzana",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1879.8
+   }
+  ],
+  "gross": 1879.8,
+  "discount": 0,
+  "net": 1879.8,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "medium",
+  "notes": "The tag letter is a looped, circled glyph; it most likely reads G but is not certain. Circled 1879/80. Note: Kalzana x65 here is 1879.80 (28.92 each), but on thermal invoice 9 Kalzana 500mg x65 is 1625.00 (25.00 each), and on 10049 it is 1625.00. Possibly a different strength or product.",
+  "source_photo": "PostedReceipts/PostedReceipt3.jpeg"
+ },
+ {
+  "photo": "p09.jpeg",
+  "format": "handwritten",
+  "invoice": "10055",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": null,
+  "tag": null,
+  "items": [
+   {
+    "name": "Syndopa 275mg",
+    "code": null,
+    "qty": 95,
+    "price": null,
+    "amount": 8523.4
+   },
+   {
+    "name": "Asthalin 100mcg HDI",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 613.0
+   },
+   {
+    "name": "Seroflo 250mcg HDI",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 1831.0
+   },
+   {
+    "name": "Augmentin 625mg",
+    "code": null,
+    "qty": 21,
+    "price": null,
+    "amount": 2502.36
+   }
+  ],
+  "gross": 13469.76,
+  "discount": 0,
+  "net": 13469.76,
+  "item_count": 4,
+  "partial": false,
+  "confidence": "high",
+  "notes": "A personal name is written on the Mr/Mrs/Miss line; it is left out on purpose. No colour tag written above this invoice. Circled 13469/76. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt5.jpeg"
+ },
+ {
+  "photo": "p09.jpeg",
+  "format": "handwritten",
+  "invoice": "10053",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-(37)",
+  "tag": "Green-37",
+  "items": [
+   {
+    "name": "Emulsifying ointment",
+    "code": null,
+    "qty": 2,
+    "price": null,
+    "amount": 760.0
+   },
+   {
+    "name": "Neurobion",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 3770.0
+   }
+  ],
+  "gross": 4530.0,
+  "discount": 0,
+  "net": 4530.0,
+  "item_count": 2,
+  "partial": false,
+  "confidence": "high",
+  "notes": "The tag is written at the top right of the page, above this invoice. Circled 4530/=. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt5.jpeg"
+ },
+ {
+  "photo": "p09.jpeg",
+  "format": "handwritten",
+  "invoice": "10056",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-61",
+  "tag": "Green-61",
+  "items": [
+   {
+    "name": "Asthalin 100mcg HDI",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 613.0
+   },
+   {
+    "name": "Foracort 100mcg HDI",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 1736.0
+   }
+  ],
+  "gross": 2349.0,
+  "discount": 0,
+  "net": 2349.0,
+  "item_count": 2,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 2349/=. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt5.jpeg"
+ },
+ {
+  "photo": "p09.jpeg",
+  "format": "handwritten",
+  "invoice": "10054",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-(48)",
+  "tag": "Green-48",
+  "items": [
+   {
+    "name": "Quetiapine 25mg (written roughly 'Qutipin')",
+    "code": null,
+    "qty": 130,
+    "price": null,
+    "amount": 4854.2
+   }
+  ],
+  "gross": 4854.2,
+  "discount": 0,
+  "net": 4854.2,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "medium",
+  "notes": "The item name is hard to read; it looks like quetiapine 25mg. Circled 4854/20.",
+  "source_photo": "PostedReceipts/PostedReceipt5.jpeg"
+ },
+ {
+  "photo": "p10.jpeg",
+  "format": "handwritten",
+  "invoice": "10059",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "Black (7)",
+  "tag": "Black-07",
+  "items": [
+   {
+    "name": "Glucophage XR 500mg",
+    "code": null,
+    "qty": 130,
+    "price": null,
+    "amount": 1987.7
+   },
+   {
+    "name": "Atorlip 20mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1155.7
+   },
+   {
+    "name": "Forceval",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 7125.95
+   },
+   {
+    "name": "Cilacar 5mg",
+    "code": null,
+    "qty": 130,
+    "price": null,
+    "amount": 6217.9
+   }
+  ],
+  "gross": 16487.25,
+  "discount": 0,
+  "net": 16487.25,
+  "item_count": 4,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 16487/25. Sum matches. The Total line has a stray overwritten first digit ('16487').",
+  "source_photo": "PostedReceipts/PostedReceipt6.jpeg"
+ },
+ {
+  "photo": "p10.jpeg",
+  "format": "handwritten",
+  "invoice": "10057",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "Blue-(6)",
+  "tag": "Blue-06",
+  "items": [
+   {
+    "name": "Neurobion",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 3770.0
+   },
+   {
+    "name": "Atorlip 20mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1155.7
+   },
+   {
+    "name": "Prodep 20mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1420.25
+   },
+   {
+    "name": "T4 50mcg",
+    "code": null,
+    "qty": 100,
+    "price": null,
+    "amount": 1210.0
+   },
+   {
+    "name": "Forceval",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 7125.95
+   },
+   {
+    "name": "Costar EPO 1000mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 6435.0
+   },
+   {
+    "name": "Deplus 2000iu",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 3055.0
+   }
+  ],
+  "gross": 24171.9,
+  "discount": 0,
+  "net": 24171.9,
+  "item_count": 7,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 24171/90. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt6.jpeg"
+ },
+ {
+  "photo": "p10.jpeg",
+  "format": "handwritten",
+  "invoice": "10060",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "G-(67)",
+  "tag": "Green-67",
+  "items": [
+   {
+    "name": "Domperidone 10mg",
+    "code": null,
+    "qty": 20,
+    "price": null,
+    "amount": 69.4
+   },
+   {
+    "name": "Foracort 400mcg HDI",
+    "code": null,
+    "qty": 1,
+    "price": null,
+    "amount": 2388.0
+   }
+  ],
+  "gross": 2457.4,
+  "discount": 0,
+  "net": 2457.4,
+  "item_count": 2,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 2457/40. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt6.jpeg"
+ },
+ {
+  "photo": "p10.jpeg",
+  "format": "handwritten",
+  "invoice": "10058",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": "Black-(6)",
+  "tag": "Black-06",
+  "items": [
+   {
+    "name": "Neurobion",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 3770.0
+   },
+   {
+    "name": "Zaart 50mg",
+    "code": null,
+    "qty": 130,
+    "price": null,
+    "amount": 2655.9
+   },
+   {
+    "name": "Atorlip 10mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 682.5
+   }
+  ],
+  "gross": 7108.4,
+  "discount": 0,
+  "net": 7108.4,
+  "item_count": 3,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Circled 7108/40. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt6.jpeg"
+ },
+ {
+  "photo": "p11.jpeg",
+  "format": "handwritten",
+  "invoice": "10061",
+  "date": "13/08/2026",
+  "time": null,
+  "tag_raw": null,
+  "tag": null,
+  "items": [
+   {
+    "name": "Envas 5mg",
+    "code": null,
+    "qty": 130,
+    "price": null,
+    "amount": 644.8
+   },
+   {
+    "name": "Plavix(?) 75mg (written roughly 'Plaopa')",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 2256.8
+   },
+   {
+    "name": "Omega-3 1000mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 4485.0
+   }
+  ],
+  "gross": 7386.6,
+  "discount": 0,
+  "net": 7386.6,
+  "item_count": 3,
+  "partial": false,
+  "confidence": "medium",
+  "notes": "A personal name is written on the Mr/Mrs/Miss line; it is left out on purpose. No colour tag on this photo (a single invoice). The second item name is hard to read; it looks like a clopidogrel 75mg brand. Circled 7386/60. Sum matches.",
+  "source_photo": "PostedReceipts/PostedReceipt7.jpeg"
+ },
+ {
+  "photo": "p12.jpeg",
+  "format": "handwritten",
+  "invoice": "10036",
+  "date": "08-Aug-26",
+  "time": null,
+  "tag_raw": "R-6",
+  "tag": "Red-06",
+  "items": [
+   {
+    "name": "Zoart 50mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1327.95
+   },
+   {
+    "name": "Glycomet SR 500mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 819.0
+   },
+   {
+    "name": "Atorclip ?0mg (strength digit overwritten)",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 682.5
+   },
+   {
+    "name": "Amileb(?) 25mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 303.5
+   },
+   {
+    "name": "Kalgana(?) 500mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 1625.0
+   },
+   {
+    "name": "Gaba 100mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 2162.55
+   },
+   {
+    "name": "Baccon/Baclon(?) 5mg",
+    "code": null,
+    "qty": 130,
+    "price": null,
+    "amount": 3194.1
+   },
+   {
+    "name": "Zycril(?) 200mg",
+    "code": null,
+    "qty": 30,
+    "price": null,
+    "amount": 1586.4
+   },
+   {
+    "name": "Famo 20mg",
+    "code": null,
+    "qty": 30,
+    "price": null,
+    "amount": 60.0
+   },
+   {
+    "name": "Omeg 20mg",
+    "code": null,
+    "qty": 30,
+    "price": null,
+    "amount": 268.2
+   },
+   {
+    "name": "Glycomet SR 500mg",
+    "code": null,
+    "qty": 65,
+    "price": null,
+    "amount": 819.0
+   }
+  ],
+  "gross": 14433.3,
+  "discount": 0,
+  "net": 14433.3,
+  "item_count": 11,
+  "partial": false,
+  "confidence": "low",
+  "notes": "Handwritten carbon copy; date written '08/08' only. No unit prices on form. Item names are handwritten shorthand, several uncertain (marked ?). Atorclip amount is overwritten: a struck-out leading digit then '68?50'; read as 682.50 (=65x10.50, matches ATORLIP 10MG price on thermal receipts) but could be 368.50/968.50. Handwritten '2' resembles '9' \u2014 Zoart read 1327.95 (could be 1397.95), Kalgana 1625.00 (could be 1695/1635), Gaba 2162.55, Baccon 3194.10. Sum of 11 lines as read = 12848.20 vs written subtotal 12847.30 (diff 0.90). Total box: subtotal 12847.30, then a struck-out total (~13615.30?, illegible), then final total written below '14433.30'. 14433.30 - 12847.30 = 1586.00 (approx. the Zycril 1586.40 line, possibly counted twice?) \u2014 unexplained; net recorded as final written 14433.30, verify. Glycomet SR 500mg appears twice (65 each). All lines have tick marks.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.33\u202fPM.jpeg"
+ },
+ {
+  "photo": "p13.jpeg",
+  "format": "thermal",
+  "invoice": "53",
+  "date": "08-Aug-26",
+  "time": "11:59:16 AM",
+  "tag_raw": "R 7",
+  "tag": "Red-07",
+  "items": [
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AP297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "SAZO EN 500MG TABLET",
+    "code": "ET052",
+    "qty": 130,
+    "price": 33.5,
+    "amount": 4355.0
+   }
+  ],
+  "gross": 7410.0,
+  "discount": 0,
+  "net": 7410.0,
+  "item_count": 2,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks. Cashier timestamp 08-Aug-26 12:10:10 PM. Header partly cut (pharmacy name) but all transaction data visible. Tick marks on items.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.34\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p14.jpeg",
+  "format": "thermal",
+  "invoice": "76",
+  "date": "08-Aug-26",
+  "time": "1:48:01 PM",
+  "tag_raw": "G 11",
+  "tag": "Green-11",
+  "items": [
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AP297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   }
+  ],
+  "gross": 3055.0,
+  "discount": 0,
+  "net": 3055.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks. Cashier timestamp 1:48:20 PM. Handwritten vertical letters in left margin (D T C A R - I - G H?) and a tick by the item.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.34\u202fPM (2).jpeg"
+ },
+ {
+  "photo": "p14.jpeg",
+  "format": "thermal",
+  "invoice": null,
+  "date": "08-Aug-26",
+  "time": null,
+  "tag_raw": null,
+  "tag": null,
+  "items": [],
+  "gross": null,
+  "discount": null,
+  "net": null,
+  "item_count": 7,
+  "partial": true,
+  "confidence": "low",
+  "notes": "Only footer of a second receipt visible beneath invoice 76: '[7 item(s)] Cashier: ABC[08-Aug-26 12:02:03 PM]'. Matches the footer of invoice 37 (G 11, 17,415.45) in p16 \u2014 very likely the same receipt; do not double-count.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.34\u202fPM (2).jpeg"
+ },
+ {
+  "photo": "p15.jpeg",
+  "format": "thermal",
+  "invoice": "66",
+  "date": "08-Aug-26",
+  "time": "12:33:00 PM",
+  "tag_raw": "R 7",
+  "tag": "Red-07",
+  "items": [
+   {
+    "name": "NP-4 (U) NEOPRENE KNEE WRAP NOS",
+    "code": "AV076",
+    "qty": 1,
+    "price": 5076.0,
+    "amount": 5076.0
+   }
+  ],
+  "gross": 5076.0,
+  "discount": 0,
+  "net": 5076.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks. Cashier timestamp 12:33:35 PM. Handwritten letters in left margin (?-A-S-E). Other receipts stacked underneath are not legible.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.34\u202fPM.jpeg"
+ },
+ {
+  "photo": "p16.jpeg",
+  "format": "thermal",
+  "invoice": "37",
+  "date": "08-Aug-26",
+  "time": "11:25:45 AM",
+  "tag_raw": "G 11",
+  "tag": "Green-11",
+  "items": [
+   {
+    "name": "DUZELA 20MG CAPSULE",
+    "code": "EM553",
+    "qty": 65,
+    "price": 56.01,
+    "amount": 3640.65
+   },
+   {
+    "name": "TEL OD 80MG TABLET",
+    "code": "SW567",
+    "qty": 65,
+    "price": 43.69,
+    "amount": 2839.85
+   },
+   {
+    "name": "ASCORBIC ACID 100MG [MSJ] TABLET",
+    "code": "MJ057",
+    "qty": 130,
+    "price": 1.7,
+    "amount": 221.0
+   },
+   {
+    "name": "GLIVIC 40MG TABLET",
+    "code": "SW848",
+    "qty": 65,
+    "price": 11.89,
+    "amount": 772.85
+   },
+   {
+    "name": "GLYCOMET 500MG TABLET",
+    "code": "HP204",
+    "qty": 65,
+    "price": 7.44,
+    "amount": 483.6
+   },
+   {
+    "name": "EMPA 25MG TABLET",
+    "code": "IH026",
+    "qty": 65,
+    "price": 135.0,
+    "amount": 8775.0
+   },
+   {
+    "name": "ATORLIP 10MG TABLET",
+    "code": "CH042",
+    "qty": 65,
+    "price": 10.5,
+    "amount": 682.5
+   }
+  ],
+  "gross": 17415.45,
+  "discount": 0,
+  "net": 17415.45,
+  "item_count": 7,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks (all lines and total). Top of receipt cut off; date reads '?8-Aug-26' (leading digit hidden), assumed 08-Aug-26. Cashier timestamp 12:02:03 PM. Tick marks on all items. Same footer appears partially in p14 and p18.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.35\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p18.jpeg",
+  "format": "thermal",
+  "invoice": "55",
+  "date": "08-Aug-26",
+  "time": "12:04:19 PM",
+  "tag_raw": "G 11",
+  "tag": "Green-11",
+  "items": [
+   {
+    "name": "GLYCOMET 500MG TABLET",
+    "code": "HP204",
+    "qty": 65,
+    "price": 7.44,
+    "amount": 483.6
+   }
+  ],
+  "gross": 483.6,
+  "discount": 0,
+  "net": 483.6,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks. Cashier timestamp 12:04:27 PM. Header (pharmacy name) partly cut but transaction data visible. Note: Green-11 invoice 37 already includes GLYCOMET 500MG 65 x 7.44 = 483.60 \u2014 this may be a duplicate charge of the same item two minutes later; verify.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.35\u202fPM.jpeg"
+ },
+ {
+  "photo": "p18.jpeg",
+  "format": "thermal",
+  "invoice": null,
+  "date": "08-Aug-26",
+  "time": null,
+  "tag_raw": null,
+  "tag": null,
+  "items": [],
+  "gross": null,
+  "discount": null,
+  "net": null,
+  "item_count": 7,
+  "partial": true,
+  "confidence": "low",
+  "notes": "Only footer of a receipt beneath invoice 55 visible: 'CASH BALANCE 0.00 [7 item(s)] Cashier: ABC[08-Aug-26 12:02:03 PM]'. Same as invoice 37 (p16); do not double-count.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.35\u202fPM.jpeg"
+ },
+ {
+  "photo": "p19.jpeg",
+  "format": "thermal",
+  "invoice": "138",
+  "date": "08-Aug-26",
+  "time": "5:38:33 PM",
+  "tag_raw": "G 54",
+  "tag": "Green-54",
+  "items": [
+   {
+    "name": "DEPLUS 1000 ** TABLET",
+    "code": "AP299",
+    "qty": 65,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "ZOSERT 100MG TABLET",
+    "code": "EM506",
+    "qty": 65,
+    "price": 72.29,
+    "amount": 4698.85
+   },
+   {
+    "name": "NEUROBION TABLET",
+    "code": "EM028",
+    "qty": 65,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "ROSTIN 10MG TABLET",
+    "code": "MH059",
+    "qty": 65,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "INOSITA 100MG TABLET",
+    "code": "CI428",
+    "qty": 65,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "DIAMICRON 80MG TABLET",
+    "code": "HP28?",
+    "qty": 213,
+    "price": 22.4,
+    "amount": 4771.2
+   },
+   {
+    "name": "GLUCOPHAGE XR 1000MG ** TABLET",
+    "code": "EM419",
+    "qty": 130,
+    "price": 59.5,
+    "amount": 7735.0
+   },
+   {
+    "name": "BISOZA 10MG TABLET",
+    "code": "JL160",
+    "qty": 65,
+    "price": 34.31,
+    "amount": 2230.15
+   },
+   {
+    "name": "BISOZA 5MG TABLET",
+    "code": "JL215",
+    "qty": 65,
+    "price": 20.84,
+    "amount": 1354.6
+   }
+  ],
+  "gross": 33952.3,
+  "discount": 0,
+  "net": 33952.3,
+  "item_count": 9,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks (all lines and total). Cashier timestamp 5:43:07 PM. Diamicron code last digit unclear (HP280/HP286). Diamicron qty 213 matches handwritten note on the Green-54 prescription sheet (p20): 'only 213 available' against prescribed 98+130=228; that sheet also notes Neurobion '(Available)'. Tick marks on items.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.36\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p21.jpeg",
+  "format": "thermal",
+  "invoice": "146",
+  "date": "08-Aug-26",
+  "time": "6:00:56 PM",
+  "tag_raw": "R 35",
+  "tag": "Red-35",
+  "items": [
+   {
+    "name": "GLUCOPHAGE XR 500MG TABLET",
+    "code": "EM093",
+    "qty": 130,
+    "price": 15.29,
+    "amount": 1987.7
+   },
+   {
+    "name": "?ERUP ** CAPSULE (first letter obscured, possibly FERUP)",
+    "code": "HP342",
+    "qty": 65,
+    "price": 22.0,
+    "amount": 1430.0
+   },
+   {
+    "name": "DEPLUS 1000 ** TABLET",
+    "code": "AP299",
+    "qty": 65,
+    "price": 39.5,
+    "amount": 2567.5
+   },
+   {
+    "name": "LEFRA-10MG TABLET",
+    "code": "HP322",
+    "qty": 130,
+    "price": 79.98,
+    "amount": 10397.4
+   },
+   {
+    "name": "CARTICARE CS TABLET",
+    "code": "AP281",
+    "qty": 65,
+    "price": 120.0,
+    "amount": 7800.0
+   },
+   {
+    "name": "SAZO EN 500MG TABLET",
+    "code": "ET052",
+    "qty": 130,
+    "price": 33.5,
+    "amount": 4355.0
+   },
+   {
+    "name": "ZOSERT 100MG TABLET",
+    "code": "EM506",
+    "qty": 65,
+    "price": 72.29,
+    "amount": 4698.85
+   },
+   {
+    "name": "T4 50MCG TABLET (uncertain)",
+    "code": "EM455",
+    "qty": 65,
+    "price": 12.1,
+    "amount": 786.5
+   },
+   {
+    "name": "ATORLIP 10MG TABLET",
+    "code": "CH042",
+    "qty": 65,
+    "price": 10.5,
+    "amount": 682.5
+   },
+   {
+    "name": "OMEGA 3 FISH OIL (COSTAR) CAPSULE",
+    "code": "AM006",
+    "qty": 65,
+    "price": 69.0,
+    "amount": 4485.0
+   }
+  ],
+  "gross": 39190.45,
+  "discount": 0,
+  "net": 39190.45,
+  "item_count": 10,
+  "partial": false,
+  "confidence": "medium",
+  "notes": "Photo is blurry. Invoice number reads 146 but could be 148; time read as 6:00:56 PM, cashier timestamp ~6:06:00 PM (blurry). Customer tag 'R 35' consistent with the adjacent prescription sheet token (Red-35). Some item names/codes blurry, but every line's qty x price = amount and the lines sum exactly to 39,190.45, so the numbers are consistent.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.36\u202fPM.jpeg"
+ },
+ {
+  "photo": "p22.jpeg",
+  "format": "thermal",
+  "invoice": "113",
+  "date": "08-Aug-26",
+  "time": "3:51:15 PM",
+  "tag_raw": "G 48",
+  "tag": "Green-48",
+  "items": [
+   {
+    "name": "DESATROL 5MG TABLET",
+    "code": "DB051",
+    "qty": 20,
+    "price": 18.0,
+    "amount": 360.0
+   },
+   {
+    "name": "MONTIGET 10MG TABLET",
+    "code": "HP348",
+    "qty": 65,
+    "price": 32.71,
+    "amount": 2126.15
+   },
+   {
+    "name": "FEXIGRA 180MG TABLET",
+    "code": "CH145",
+    "qty": 65,
+    "price": 49.03,
+    "amount": 3186.95
+   }
+  ],
+  "gross": 5673.1,
+  "discount": 0,
+  "net": 5673.1,
+  "item_count": 3,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Cashier stamp 08-Aug-26 4:27:53 PM. Items ticked in blue pen. Cash tendered 5,673.10, balance 0.00. Arithmetic verified (qty*price and sum=gross).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.37\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p23.jpeg",
+  "format": "thermal",
+  "invoice": "109",
+  "date": "08-Aug-26",
+  "time": "3:32:22 PM",
+  "tag_raw": "G 32",
+  "tag": "Green-32",
+  "items": [
+   {
+    "name": "DESATROL 5MG TABLET",
+    "code": "DB051",
+    "qty": 30,
+    "price": 18.0,
+    "amount": 540.0
+   },
+   {
+    "name": "NEVOX XR 500MG TABLET",
+    "code": "HP620",
+    "qty": 65,
+    "price": 15.1,
+    "amount": 981.5
+   },
+   {
+    "name": "ATORLIP 20MG TABLET",
+    "code": "CH043",
+    "qty": 65,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "FINAST 5MG TABLET",
+    "code": "EM629",
+    "qty": 65,
+    "price": 61.0,
+    "amount": 3965.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** CAPSULE",
+    "code": "SW506",
+    "qty": 65,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "DUSPATALIN RETARD 200MG TABLET",
+    "code": "CI105",
+    "qty": 65,
+    "price": 228.46,
+    "amount": 14849.9
+   },
+   {
+    "name": "AMILEB 10MG TABLET",
+    "code": "NW139",
+    "qty": 65,
+    "price": 4.32,
+    "amount": 280.8
+   }
+  ],
+  "gross": 24350.8,
+  "discount": 0,
+  "net": 24350.8,
+  "item_count": 7,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Cashier stamp 08-Aug-26 4:11:42 PM. Items ticked in blue pen. Another receipt's edge ('[3 item...') visible behind, not captured. Arithmetic verified (qty*price and sum=gross).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.37\u202fPM.jpeg"
+ },
+ {
+  "photo": "p24.jpeg",
+  "format": "thermal",
+  "invoice": "156",
+  "date": "08-Aug-26",
+  "time": "6:32:20 PM",
+  "tag_raw": "G 44",
+  "tag": "Green-44",
+  "items": [
+   {
+    "name": "PANTODAC 20MG TABLET",
+    "code": "SW206",
+    "qty": 130,
+    "price": 33.75,
+    "amount": 4387.5
+   },
+   {
+    "name": "AQUEOUS CREAM 100G",
+    "code": "BI005",
+    "qty": 2,
+    "price": 330.0,
+    "amount": 660.0
+   },
+   {
+    "name": "THYMOL IN SPIRIT 3% ** 30ML",
+    "code": "PH391",
+    "qty": 2,
+    "price": 200.0,
+    "amount": 400.0
+   },
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AP297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "IROVEL 150MG TABLET",
+    "code": "HP931",
+    "qty": 65,
+    "price": 69.54,
+    "amount": 4520.1
+   },
+   {
+    "name": "VERMOX 100MG 6-S",
+    "code": "PT025",
+    "qty": 1,
+    "price": 463.0,
+    "amount": 463.0
+   },
+   {
+    "name": "ROSTIN 10MG TABLET",
+    "code": "MH059",
+    "qty": 65,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "CILACAR 5MG TABLET",
+    "code": "GE546",
+    "qty": 33,
+    "price": 47.83,
+    "amount": 1578.39
+   }
+  ],
+  "gross": 17013.99,
+  "discount": 0,
+  "net": 17013.99,
+  "item_count": 8,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Top of header (shop name) cut off and Date field faded; date taken from cashier stamp 08-Aug-26 6:39:38 PM. All item/total data fully visible. Items ticked in blue pen. Arithmetic verified (qty*price and sum=gross).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.38\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p26.jpeg",
+  "format": "handwritten",
+  "invoice": "10037",
+  "date": "08/08",
+  "time": null,
+  "tag_raw": "G 44 (circled); also a crossed-out mark resembling 'G-5' next to it",
+  "tag": "Green-44",
+  "items": [
+   {
+    "name": "Neurobion",
+    "code": "",
+    "qty": 65,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "Vermox 100mg",
+    "code": "",
+    "qty": 1,
+    "price": 463.0,
+    "amount": 463.0
+   }
+  ],
+  "gross": 4233.0,
+  "discount": 0,
+  "net": 4233.0,
+  "item_count": 2,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Handwritten carbon copy. Unit prices not written; derived as amount/qty (Neurobion 3770/65=58.00). Circled '4233/=' written in body. 'G' at top appears written in a Sinhala-like glyph, read as G. Bottom of p24 thermal receipt (17,013.99) visible underneath - not captured again. Arithmetic verified (qty*price and sum=gross).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.38\u202fPM.jpeg"
+ },
+ {
+  "photo": "p28.jpeg",
+  "format": "thermal",
+  "invoice": "173",
+  "date": "08-Aug-26",
+  "time": "7:19:20 PM",
+  "tag_raw": "G 67",
+  "tag": "Green-67",
+  "items": [],
+  "gross": null,
+  "discount": null,
+  "net": null,
+  "item_count": null,
+  "partial": true,
+  "confidence": "low",
+  "notes": "Only the faded, angled header of a thermal receipt is visible behind a clinic prescription sheet (prescription for a Green-58 patient; not a receipt, not transcribed). Header reads Date 08-Aug-26, Invoice # 173, Time ?:19:20 PM, Customer G 67 (hour and tag digits hard to read). Appears to be the same receipt as p31 (Invoice 173, G 67, 7:19:20 PM) - duplicate, do not double-count.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.39\u202fPM (2).jpeg"
+ },
+ {
+  "photo": "p27.jpeg",
+  "format": "thermal",
+  "invoice": "155",
+  "date": "08-Aug-26",
+  "time": "6:28:52 PM",
+  "tag_raw": "G 58",
+  "tag": "Green-58",
+  "items": [
+   {
+    "name": "ASTROCORT CREAM 1% ** 15G",
+    "code": "AS005",
+    "qty": 2,
+    "price": 330.0,
+    "amount": 660.0
+   },
+   {
+    "name": "CLOPIVAS 75MG TABLET",
+    "code": "CH046",
+    "qty": 65,
+    "price": 15.87,
+    "amount": 1031.55
+   },
+   {
+    "name": "FINAST 5MG TABLET",
+    "code": "EM629",
+    "qty": 65,
+    "price": 61.0,
+    "amount": 3965.0
+   },
+   {
+    "name": "ATORLIP 20MG TABLET",
+    "code": "CH043",
+    "qty": 65,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "ZAART 25MG TABLET",
+    "code": "CH052",
+    "qty": 130,
+    "price": 12.48,
+    "amount": 1622.4
+   }
+  ],
+  "gross": 8434.65,
+  "discount": 0,
+  "net": 8434.65,
+  "item_count": 5,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Cashier stamp 08-Aug-26 6:36:44 PM. Items ticked in blue pen; some pen strokes over qty/price but values legible. Arithmetic verified (qty*price and sum=gross).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.39\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p29.jpeg",
+  "format": "thermal",
+  "invoice": "159",
+  "date": "08-Aug-26",
+  "time": "6:39:15 PM",
+  "tag_raw": "G 48",
+  "tag": "Green-48",
+  "items": [
+   {
+    "name": "MIRTAZ 15MG TABLET",
+    "code": "EM507",
+    "qty": 35,
+    "price": 87.2,
+    "amount": 3052.0
+   },
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AP297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "ZOSERT 10?MG TABLET",
+    "code": "EM506",
+    "qty": 65,
+    "price": 72.29,
+    "amount": 4698.85
+   },
+   {
+    "name": "TIZOREL 4MG TABLET",
+    "code": "EM212",
+    "qty": 65,
+    "price": 92.38,
+    "amount": 6004.7
+   },
+   {
+    "name": "SINEMET 275MG TABLET",
+    "code": "EM601",
+    "qty": 100,
+    "price": 100.62,
+    "amount": 10062.0
+   },
+   {
+    "name": "ADMENTA 10MG TABLET",
+    "code": "EM486",
+    "qty": 33,
+    "price": 113.56,
+    "amount": 3747.48
+   }
+  ],
+  "gross": 30620.03,
+  "discount": 0,
+  "net": 30620.03,
+  "item_count": 6,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Cashier stamp 08-Aug-26 6:45:52 PM. Cash tendered 30,630.03, balance 10.00. ZOSERT strength partly obscured by pen tick (looks like '10..MG'). Handwritten marks beside DEPLUS ('c5'?) and TIZOREL ('u'?) - illegible. Second G 48 receipt of the day (see also p22, invoice 113). Arithmetic verified (qty*price and sum=gross).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.39\u202fPM.jpeg"
+ },
+ {
+  "photo": "p31.jpeg",
+  "format": "thermal",
+  "invoice": "173",
+  "date": "08-Aug-26",
+  "time": "7:19:20 PM",
+  "tag_raw": "G 67",
+  "tag": "Green-67",
+  "items": [
+   {
+    "name": "FORCEVAL CAPSULE",
+    "code": "PH524",
+    "qty": 65,
+    "price": 109.63,
+    "amount": 7125.95
+   },
+   {
+    "name": "PANTODAC 20MG TABLET",
+    "code": "SW206",
+    "qty": 20,
+    "price": 33.75,
+    "amount": 675.0
+   },
+   {
+    "name": "SUCRAFIL SUSPENSION 200ML",
+    "code": "SW039",
+    "qty": 1,
+    "price": 1318.0,
+    "amount": 1318.0
+   },
+   {
+    "name": "URIMAX 0.4MG ** CAPSULE",
+    "code": "SW506",
+    "qty": 65,
+    "price": 39.66,
+    "amount": 2577.9
+   },
+   {
+    "name": "CILACAR 5MG TABLET",
+    "code": "GE546",
+    "qty": 130,
+    "price": 47.83,
+    "amount": 6217.9
+   },
+   {
+    "name": "DUZELA 30MG CAPSULE",
+    "code": "EM554",
+    "qty": 65,
+    "price": 74.85,
+    "amount": 4865.25
+   },
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AP297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   },
+   {
+    "name": "NEUROBION TABLET",
+    "code": "EM02?",
+    "qty": 65,
+    "price": 58.0,
+    "amount": 3770.0
+   },
+   {
+    "name": "INOSITA 100MG TABLET",
+    "code": "CI428",
+    "qty": 65,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "ROSTIN 10MG TABLET",
+    "code": "MH059",
+    "qty": 65,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "DIAMICRON MR 60MG TABLET",
+    "code": "HP017",
+    "qty": 65,
+    "price": 72.63,
+    "amount": 4720.95
+   },
+   {
+    "name": "GLUCOPHAGE XR 500MG TABLET",
+    "code": "EM093",
+    "qty": 260,
+    "price": 15.29,
+    "amount": 3975.4
+   },
+   {
+    "name": "MELO 3 TABLET",
+    "code": "IW022",
+    "qty": 130,
+    "price": 25.0,
+    "amount": 3250.0
+   },
+   {
+    "name": "OMEGA 3 FISH OIL (COSTAR) CAPSULE",
+    "code": "AM006",
+    "qty": 65,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "EMPA 25MG TABLET",
+    "code": "IH026",
+    "qty": 65,
+    "price": 135.0,
+    "amount": 8775.0
+   }
+  ],
+  "gross": 61636.35,
+  "discount": 0,
+  "net": 61636.35,
+  "item_count": 15,
+  "partial": false,
+  "confidence": "medium",
+  "notes": "Thermal print faded in places. Inferred (faded/obscured) values, all consistent with amounts: FORCEVAL qty 65 (faded) and 'CAPSULE' faded; NEUROBION name partly hidden by pen tick, code last digit unreadable; INOSITA price 75.00, ROSTIN price 30.00, DIAMICRON price 72.63 faded (derived from amount/qty and matching prescription sheet). Cashier stamp 08-Aug-26 7:25:36 PM. Edge of a handwritten carbon invoice visible at left (Qty 130 only) - not enough to capture. Same receipt header seen in p28. Arithmetic verified (qty*price and sum=gross).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.40\u202fPM.jpeg"
+ },
+ {
+  "photo": "p32.jpeg",
+  "format": "thermal",
+  "invoice": "154",
+  "date": "08-Aug-26",
+  "time": "6:25:57 PM",
+  "tag_raw": "G 59",
+  "tag": "Green-59",
+  "items": [
+   {
+    "name": "CLOPIVAS 75MG TABLET",
+    "code": "CH046",
+    "qty": 65,
+    "price": 15.87,
+    "amount": 1031.55
+   },
+   {
+    "name": "EZITA 10MG TABLET",
+    "code": "HP266",
+    "qty": 65,
+    "price": 38.8,
+    "amount": 2522.0
+   },
+   {
+    "name": "EMPA 10MG TABLET",
+    "code": "IH003",
+    "qty": 65,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "SITAGLIPTIN 50MG (SIGLITA) TABLET",
+    "code": "SP769",
+    "qty": 130,
+    "price": 8.6,
+    "amount": 1118.0
+   },
+   {
+    "name": "DIAMICRON MR 30MG TABLET",
+    "code": "HP365",
+    "qty": 130,
+    "price": 45.0,
+    "amount": 5850.0
+   },
+   {
+    "name": "CONCOR 2.5MG TABLET",
+    "code": "EM386",
+    "qty": 65,
+    "price": 36.0,
+    "amount": 2340.0
+   },
+   {
+    "name": "ZAART 25MG TABLET",
+    "code": "CH052",
+    "qty": 33,
+    "price": 12.48,
+    "amount": 411.84
+   },
+   {
+    "name": "ATORLIP 40MG TABLET",
+    "code": "CH984",
+    "qty": 130,
+    "price": 39.66,
+    "amount": 5155.8
+   },
+   {
+    "name": "ECORIN 150MG TABLET",
+    "code": "HP324",
+    "qty": 65,
+    "price": 9.95,
+    "amount": 646.75
+   }
+  ],
+  "gross": 23560.94,
+  "discount": 0,
+  "net": 23560.94,
+  "item_count": 9,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks out (all lines and sum). Cashier timestamp 08-Aug-26 6:32:27 PM. Items ticked in pen. Pharmacy substituted brands vs clinic Rx (p33): CLOPIVAS for PIDLET (Rx qty 0), SIGLITA for INOSITA SPC, CONCOR for BISOVIC; ECORIN billed 9.95 vs Rx 12.90. Rx total cost 23,573.29. Also bottom of this receipt visible again in p34.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.41\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p34.jpeg",
+  "format": "handwritten",
+  "invoice": "10039",
+  "date": "08/08",
+  "time": null,
+  "tag_raw": "G-(59)",
+  "tag": "Green-59",
+  "items": [
+   {
+    "name": "Glucophage XR 500mg",
+    "code": null,
+    "qty": 130,
+    "price": 15.29,
+    "amount": 1987.7
+   }
+  ],
+  "gross": 1987.7,
+  "discount": 0,
+  "net": 1987.7,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Unit price not written; 15.29 derived (1987.70/130), matches thermal price for GLUCOPHAGE XR in invoice 171. Total circled '1987/70'. Underneath is the bottom of thermal invoice 154 (dup of p32, not recorded again). Glucophage XR is not on the printed Rx for Green-59 (p33); p33 has handwritten add-on '10. Novex SR 500mg bd x 65 days' (metformin SR) - likely this item.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.41\u202fPM.jpeg"
+ },
+ {
+  "photo": "p35.jpeg",
+  "format": "thermal",
+  "invoice": "177",
+  "date": "08-Aug-26",
+  "time": "7:42:58 PM",
+  "tag_raw": "G 46",
+  "tag": "Green-46",
+  "items": [
+   {
+    "name": "AQUEOUS CREAM 100G",
+    "code": "BI005",
+    "qty": 1,
+    "price": 330.0,
+    "amount": 330.0
+   }
+  ],
+  "gross": 330.0,
+  "discount": 0,
+  "net": 330.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Cashier timestamp 7:46:20 PM. POSSIBLE DUPLICATE BILLING: invoice 178 (p37) is the same item for the same tag G 46 at 7:44:45 PM (cashier 7:46:22 PM). Rx p39 lists only one handwritten aqueous cream add-on. Behind it is invoice 171 (G 46) partially visible - fully captured from p36, not recorded again here.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.42\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p36.jpeg",
+  "format": "thermal",
+  "invoice": "171",
+  "date": "08-Aug-26",
+  "time": "7:07:43 PM",
+  "tag_raw": "G 46",
+  "tag": "Green-46",
+  "items": [
+   {
+    "name": "GLUCOPHAGE XR 500MG TABLET",
+    "code": "EM093",
+    "qty": 130,
+    "price": 15.29,
+    "amount": 1987.7
+   },
+   {
+    "name": "INOSITA 100MG TABLET",
+    "code": "CI428",
+    "qty": 65,
+    "price": 75.0,
+    "amount": 4875.0
+   },
+   {
+    "name": "DUZELA 30MG CAPSULE",
+    "code": "EM554",
+    "qty": 65,
+    "price": 74.85,
+    "amount": 4865.25
+   },
+   {
+    "name": "EMPA 10MG TABLET",
+    "code": "IH003",
+    "qty": 65,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "ATORLIP 20MG TABLET",
+    "code": "CH043",
+    "qty": 65,
+    "price": 17.78,
+    "amount": 1155.7
+   },
+   {
+    "name": "NEUROBION TABLET",
+    "code": "EM028",
+    "qty": 65,
+    "price": 58.0,
+    "amount": 3770.0
+   }
+  ],
+  "gross": 21138.65,
+  "discount": 0,
+  "net": 21138.65,
+  "item_count": 6,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks out. Cashier timestamp 7:15:11 PM. Rx p39 (Green-46, total 12,952.65): EMPAVIC qty 1 on Rx but 65 billed (EMPA); CENOVIS MEGA B qty 0 on Rx, NEUROBION 65 billed as substitute.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.42\u202fPM (2).jpeg"
+ },
+ {
+  "photo": "p37.jpeg",
+  "format": "thermal",
+  "invoice": "178",
+  "date": "08-Aug-26",
+  "time": "7:44:45 PM",
+  "tag_raw": "G 46",
+  "tag": "Green-46",
+  "items": [
+   {
+    "name": "AQUEOUS CREAM 100G",
+    "code": "BI005",
+    "qty": 1,
+    "price": 330.0,
+    "amount": 330.0
+   }
+  ],
+  "gross": 330.0,
+  "discount": 0,
+  "net": 330.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Cashier timestamp 7:46:22 PM. POSSIBLE DUPLICATE of invoice 177 (p35): same tag, same single item, ~2 min apart. Invoice 171 partially visible behind (not recorded again).",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.42\u202fPM.jpeg"
+ },
+ {
+  "photo": "p38.jpeg",
+  "format": "handwritten",
+  "invoice": "10038",
+  "date": "08/08",
+  "time": null,
+  "tag_raw": "Black (65)",
+  "tag": "Black-65",
+  "items": [
+   {
+    "name": "Pantodac 20mg",
+    "code": null,
+    "qty": 260,
+    "price": 33.75,
+    "amount": 8775.0
+   }
+  ],
+  "gross": 8775.0,
+  "discount": 0,
+  "net": 8775.0,
+  "item_count": 1,
+  "partial": false,
+  "confidence": "medium",
+  "notes": "Original amount struck through (approx '958?.95', illegible) and corrected to 8775.00; total 8775.00, circled '8775/='. Unit price derived 33.75. Qty '260' fairly clear. Tag written 'Black 65' but Pantodac 20mg is the handwritten add-on on the Green-65 Rx (p40: 'Pantodac 20mg bd. 65/365'?) - tag colour may be an error (should possibly be Green-65); verify. bd x 65 days = 130, so qty 260 may be double. Bottom of thermal invoice 151 (NET 18,452.15) visible underneath - not recorded again.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.43\u202fPM (1).jpeg"
+ },
+ {
+  "photo": "p41.jpeg",
+  "format": "thermal",
+  "invoice": "151",
+  "date": "08-Aug-26",
+  "time": "6:17:13 PM",
+  "tag_raw": "G 65",
+  "tag": "Green-65",
+  "items": [
+   {
+    "name": "ZAART 50MG TABLET",
+    "code": "CH053",
+    "qty": 130,
+    "price": 20.43,
+    "amount": 2655.9
+   },
+   {
+    "name": "ASTHALIN 100MCG INHALER 200DOSES",
+    "code": "CH001",
+    "qty": 1,
+    "price": 613.0,
+    "amount": 613.0
+   },
+   {
+    "name": "ROSTIN 10MG TABLET",
+    "code": "MH059",
+    "qty": 65,
+    "price": 30.0,
+    "amount": 1950.0
+   },
+   {
+    "name": "FORACORT 400MCG INHALER 120DOSES",
+    "code": "CH180",
+    "qty": 1,
+    "price": 2388.0,
+    "amount": 2388.0
+   },
+   {
+    "name": "AMLONG 5MG TABLET",
+    "code": "MP003",
+    "qty": 65,
+    "price": 16.12,
+    "amount": 1047.8
+   },
+   {
+    "name": "GLYCOMET 500MG TABLET",
+    "code": "HP204",
+    "qty": 130,
+    "price": 7.44,
+    "amount": 967.2
+   },
+   {
+    "name": "EMPA 10MG TABLET",
+    "code": "IH003",
+    "qty": 65,
+    "price": 69.0,
+    "amount": 4485.0
+   },
+   {
+    "name": "RECLIDE 60MG TABLET",
+    "code": "EM637",
+    "qty": 65,
+    "price": 19.85,
+    "amount": 1290.25
+   },
+   {
+    "name": "DEPLUS 2000 ** TABLET",
+    "code": "AR297",
+    "qty": 65,
+    "price": 47.0,
+    "amount": 3055.0
+   }
+  ],
+  "gross": 18452.15,
+  "discount": 0,
+  "net": 18452.15,
+  "item_count": 9,
+  "partial": false,
+  "confidence": "high",
+  "notes": "Arithmetic checks out. Cashier timestamp 6:25:32 PM. Codes MH059 and AR297 partly obscured by pen ticks; ASTHALIN price partly obscured but amount 613.00 clear. Rx p40 (Green-65, total 7,376.05) lists many items at qty 1 (ZAART, AMLONG, GLYCOMET, EMPAVIC, DIAMICRON 80MG) while bill has full 65-130 quantities; DIAMICRON 80MG on Rx billed as RECLIDE 60MG; ROSTIN Rx 20.00 vs billed 30.00; VITAMIN D Rx 45.00 vs DEPLUS 47.00.",
+  "source_photo": "more receipts/WhatsApp Image 2026-10-05 at 9.48.44\u202fPM.jpeg"
+ }
+]

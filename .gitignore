@@ -1,0 +1,8 @@
+# raw sources: photos and the earlier analysis contain patient names / internal notes
+cross-check-photos/
+cross-check-documents/
+final-bills/
+review-receipts/
+data/prior_xlsx.json
+.DS_Store
+__pycache__/
